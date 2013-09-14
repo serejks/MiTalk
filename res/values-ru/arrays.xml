@@ -1,43 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="default_smiley_texts">
-        <item>hi~</item>
-        <item>:D</item>
-        <item>:P</item>
-        <item>囧:</item>
-        <item>::>_&amp;lt;::</item>
-        <item>&amp;lt;_>|||</item>
-        <item>∩_∩</item>
-        <item>bye~</item>
-        <item>^口^</item>
-        <item>〒_〒</item>
-        <item>∠※</item>
-        <item>":'("</item>
-        <item>一-一</item>
-        <item>b_d</item>
-        <item>*^?^*</item>
-        <item>^~^</item>
-        <item>$_$</item>
-        <item>:)</item>
-        <item>^_^</item>
-        <item>ˋ^ˊ</item>
-        <item>ˋ_ˊ</item>
-        <item>°ο°</item>
-        <item>^o^</item>
-        <item>⊙o⊙</item>
-        <item>\?_?</item>
-        <item>Huh~</item>
-        <item>ˉ^ˉ</item>
-        <item>→_→</item>
-        <item>\@ο@</item>
-        <item>^人^</item>
-        <item>hands~</item>
-        <item>oVo</item>
-        <item>ōk</item>
-        <item>-?o-?</item>
-        <item>night~</item>
-        <item>smoke~</item>
-    </string-array>
     <string-array name="smiley_normal_texts">
         <item>[happy]</item>
         <item>[smile]</item>
@@ -359,7 +321,7 @@
         <item>[cheers]</item>
         <item>[martini]</item>
         <item>[Saki]</item>
-        <item>[folk&amp;amp;knife]</item>
+        <item>[folk&amp;knife]</item>
         <item>[hamburger]</item>
         <item>[fries]</item>
         <item>[pasta]</item>
@@ -501,7 +463,7 @@
         <item>[月]</item>
         <item>[申]</item>
         <item>[艹]</item>
-        <item>[lady&amp;amp;gentleman]</item>
+        <item>[lady&amp;gentleman]</item>
         <item>[gentleman]</item>
         <item>[lady]</item>
         <item>[kid]</item>
@@ -561,1057 +523,135 @@
         <item>[registered]</item>
         <item>[trademark]</item>
     </string-array>
-    <string-array name="smiley_normal_texts_global">
-        <item>0xe415</item>
-        <item>0xe056</item>
-        <item>0xe057</item>
-        <item>0xe414</item>
-        <item>0xe405</item>
-        <item>0xe106</item>
-        <item>[whistling]</item>
-        <item>[hehe...]</item>
-        <item>[smoking]</item>
-        <item>[make a face]</item>
-        <item>[wretched]</item>
-        <item>[yummy]</item>
-        <item>[want a kiss]</item>
-        <item>[hey baby]</item>
-        <item>[No!]</item>
-        <item>[shush]</item>
-        <item>[What?!]</item>
-        <item>[ahh...]</item>
-        <item>[Oh]</item>
-        <item>[boring]</item>
-        <item>[clean up nose]</item>
-        <item>[you, low class]</item>
-        <item>[dizzy]</item>
-        <item>[do it]</item>
-        <item>[please!]</item>
-        <item>[oh gosh!]</item>
-        <item>[throwing up]</item>
-        <item>"[can't decide]"</item>
-        <item>[cry a river]</item>
-        <item>[feel better]</item>
-        <item>[trust me]</item>
-        <item>[headache]</item>
-        <item>[want to sleep]</item>
-        <item>[bye bye]</item>
-        <item>[good night]</item>
-        <item>[very angry]</item>
-        <item>0xe418</item>
-        <item>0xe417</item>
-        <item>0xe40d</item>
-        <item>0xe40a</item>
-        <item>0xe404</item>
-        <item>0xe105</item>
-        <item>0xe409</item>
-        <item>0xe40e</item>
-        <item>0xe402</item>
-        <item>0xe108</item>
-        <item>0xe403</item>
-        <item>0xe058</item>
-        <item>0xe407</item>
-        <item>0xe401</item>
-        <item>0xe40f</item>
-        <item>0xe40b</item>
-        <item>0xe406</item>
-        <item>0xe413</item>
-        <item>0xe411</item>
-        <item>0xe412</item>
-        <item>0xe410</item>
-        <item>0xe107</item>
-        <item>0xe059</item>
-        <item>0xe416</item>
-        <item>0xe408</item>
-        <item>0xe40c</item>
-        <item>[after explosion]</item>
-        <item>[Mi]</item>
-        <item>[hug]</item>
-        <item>[v5]</item>
-        <item>[orz]</item>
-        <item>[Hold]</item>
-        <item>[神马]</item>
-        <item>[坑爹]</item>
-        <item>[求包养]</item>
-        <item>[有木有]</item>
-        <item>[赞]</item>
-        <item>[Thanks]</item>
-        <item>[green tie]</item>
-        <item>[candle]</item>
-        <item>[snow flake]</item>
-        <item>0xe11a</item>
-        <item>0xe10c</item>
-        <item>0xe32c</item>
-        <item>0xe32a</item>
-        <item>0xe32d</item>
-        <item>0xe328</item>
-        <item>0xe32b</item>
-        <item>0xe022</item>
-        <item>0xe023</item>
-        <item>0xe327</item>
-        <item>0xe329</item>
-        <item>0xe32e</item>
-        <item>0xe32f</item>
-        <item>0xe334</item>
-        <item>0xe021</item>
-        <item>0xe020</item>
-        <item>0xe13c</item>
-        <item>0xe330</item>
-        <item>0xe331</item>
-        <item>0xe326</item>
-        <item>0xe03e</item>
-        <item>0xe11d</item>
-        <item>0xe05a</item>
-        <item>0xe00e</item>
-        <item>0xe421</item>
-        <item>0xe420</item>
-        <item>0xe00d</item>
-        <item>0xe010</item>
-        <item>0xe011</item>
-        <item>0xe41e</item>
-        <item>0xe012</item>
-        <item>0xe422</item>
-        <item>0xe22e</item>
-        <item>0xe22f</item>
-        <item>0xe231</item>
-        <item>0xe230</item>
-        <item>0xe427</item>
-        <item>0xe41d</item>
-        <item>0xe00f</item>
-        <item>0xe41f</item>
-        <item>0xe14c</item>
-        <item>0xe201</item>
-        <item>0xe115</item>
-        <item>0xe428</item>
-        <item>0xe51f</item>
-        <item>0xe429</item>
-        <item>0xe424</item>
-        <item>0xe423</item>
-        <item>0xe253</item>
-        <item>0xe426</item>
-        <item>0xe111</item>
-        <item>0xe425</item>
-        <item>0xe31e</item>
-        <item>0xe31f</item>
-        <item>0xe31d</item>
-        <item>0xe001</item>
-        <item>0xe002</item>
-        <item>0xe005</item>
-        <item>0xe004</item>
-        <item>0xe51a</item>
-        <item>0xe519</item>
-        <item>0xe518</item>
-        <item>0xe515</item>
-        <item>0xe516</item>
-        <item>0xe517</item>
-        <item>0xe51b</item>
-        <item>0xe152</item>
-        <item>0xe04e</item>
-        <item>0xe51c</item>
-        <item>0xe51e</item>
-        <item>0xe11c</item>
-        <item>0xe536</item>
-        <item>0xe003</item>
-        <item>0xe41c</item>
-        <item>0xe41b</item>
-        <item>0xe419</item>
-        <item>0xe41a</item>
-    </string-array>
-    <integer-array name="smiley_nature_texts_global">
-        <item>0xe04a</item>
-        <item>0xe04b</item>
-        <item>0xe049</item>
-        <item>0xe048</item>
-        <item>0xe04c</item>
-        <item>0xe13d</item>
-        <item>0xe443</item>
-        <item>0xe43e</item>
-        <item>0xe04f</item>
-        <item>0xe052</item>
-        <item>0xe053</item>
-        <item>0xe524</item>
-        <item>0xe52c</item>
-        <item>0xe52a</item>
-        <item>0xe531</item>
-        <item>0xe050</item>
-        <item>0xe527</item>
-        <item>0xe051</item>
-        <item>0xe10b</item>
-        <item>0xe52b</item>
-        <item>0xe52f</item>
-        <item>0xe109</item>
-        <item>0xe528</item>
-        <item>0xe01a</item>
-        <item>0xe134</item>
-        <item>0xe530</item>
-        <item>0xe529</item>
-        <item>0xe526</item>
-        <item>0xe52d</item>
-        <item>0xe521</item>
-        <item>0xe523</item>
-        <item>0xe52e</item>
-        <item>0xe055</item>
-        <item>0xe525</item>
-        <item>0xe10a</item>
-        <item>0xe522</item>
-        <item>0xe019</item>
-        <item>0xe054</item>
-        <item>0xe520</item>
-        <item>0xe306</item>
-        <item>0xe030</item>
-        <item>0xe304</item>
-        <item>0xe110</item>
-        <item>0xe032</item>
-        <item>0xe305</item>
-        <item>0xe303</item>
-        <item>0xe118</item>
-        <item>0xe447</item>
-        <item>0xe119</item>
-        <item>0xe307</item>
-        <item>0xe308</item>
-        <item>0xe444</item>
-        <item>0xe441</item>
-    </integer-array>
-    <integer-array name="smiley_life_texts_global">
-        <item>0xe436</item>
-        <item>0xe437</item>
-        <item>0xe438</item>
-        <item>0xe43a</item>
-        <item>0xe439</item>
-        <item>0xe43b</item>
-        <item>0xe117</item>
-        <item>0xe440</item>
-        <item>0xe442</item>
-        <item>0xe446</item>
-        <item>0xe445</item>
-        <item>0xe11b</item>
-        <item>0xe448</item>
-        <item>0xe033</item>
-        <item>0xe112</item>
-        <item>0xe325</item>
-        <item>0xe312</item>
-        <item>0xe310</item>
-        <item>0xe126</item>
-        <item>0xe127</item>
-        <item>0xe008</item>
-        <item>0xe03d</item>
-        <item>0xe00c</item>
-        <item>0xe12a</item>
-        <item>0xe00a</item>
-        <item>0xe00b</item>
-        <item>0xe009</item>
-        <item>0xe316</item>
-        <item>0xe129</item>
-        <item>0xe141</item>
-        <item>0xe142</item>
-        <item>0xe317</item>
-        <item>0xe128</item>
-        <item>0xe14b</item>
-        <item>0xe211</item>
-        <item>0xe114</item>
-        <item>0xe145</item>
-        <item>0xe144</item>
-        <item>0xe03f</item>
-        <item>0xe313</item>
-        <item>0xe116</item>
-        <item>0xe10f</item>
-        <item>0xe104</item>
-        <item>0xe103</item>
-        <item>0xe101</item>
-        <item>0xe102</item>
-        <item>0xe13f</item>
-        <item>0xe140</item>
-        <item>0xe11f</item>
-        <item>0xe12f</item>
-        <item>0xe031</item>
-        <item>0xe30e</item>
-        <item>0xe311</item>
-        <item>0xe113</item>
-        <item>0xe30f</item>
-        <item>0xe13b</item>
-        <item>0xe42b</item>
-        <item>0xe42a</item>
-        <item>0xe018</item>
-        <item>0xe016</item>
-        <item>0xe015</item>
-        <item>0xe014</item>
-        <item>0xe42c</item>
-        <item>0xe42d</item>
-        <item>0xe017</item>
-        <item>0xe013</item>
-        <item>0xe20e</item>
-        <item>0xe20c</item>
-        <item>0xe20f</item>
-        <item>0xe20d</item>
-        <item>0xe131</item>
-        <item>0xe12b</item>
-        <item>0xe130</item>
-        <item>0xe12d</item>
-        <item>0xe324</item>
-        <item>0xe301</item>
-        <item>0xe148</item>
-        <item>0xe502</item>
-        <item>0xe03c</item>
-        <item>0xe30a</item>
-        <item>0xe042</item>
-        <item>0xe040</item>
-        <item>0xe041</item>
-        <item>0xe12c</item>
-        <item>0xe007</item>
-        <item>0xe31a</item>
-        <item>0xe13e</item>
-        <item>0xe31b</item>
-        <item>0xe006</item>
-        <item>0xe302</item>
-        <item>0xe319</item>
-        <item>0xe321</item>
-        <item>0xe322</item>
-        <item>0xe314</item>
-        <item>0xe503</item>
-        <item>0xe10e</item>
-        <item>0xe318</item>
-        <item>0xe43c</item>
-        <item>0xe11e</item>
-        <item>0xe323</item>
-        <item>0xe31c</item>
-        <item>0xe034</item>
-        <item>0xe035</item>
-        <item>0xe045</item>
-        <item>0xe338</item>
-        <item>0xe047</item>
-        <item>0xe30c</item>
-        <item>0xe044</item>
-        <item>0xe30b</item>
-        <item>0xe043</item>
-        <item>0xe120</item>
-        <item>0xe33b</item>
-        <item>0xe33f</item>
-        <item>0xe341</item>
-        <item>0xe34c</item>
-        <item>0xe344</item>
-        <item>0xe342</item>
-        <item>0xe33d</item>
-        <item>0xe33e</item>
-        <item>0xe340</item>
-        <item>0xe34d</item>
-        <item>0xe339</item>
-        <item>0xe147</item>
-        <item>0xe343</item>
-        <item>0xe33c</item>
-        <item>0xe33a</item>
-        <item>0xe43f</item>
-        <item>0xe34b</item>
-        <item>0xe046</item>
-        <item>0xe345</item>
-        <item>0xe346</item>
-        <item>0xe348</item>
-        <item>0xe347</item>
-        <item>0xe34a</item>
-        <item>0xe349</item>
-    </integer-array>
-    <integer-array name="smiley_car_texts_global">
-        <item>0xe036</item>
-        <item>0xe157</item>
-        <item>0xe038</item>
-        <item>0xe153</item>
-        <item>0xe155</item>
-        <item>0xe14d</item>
-        <item>0xe156</item>
-        <item>0xe501</item>
-        <item>0xe158</item>
-        <item>0xe43d</item>
-        <item>0xe037</item>
-        <item>0xe504</item>
-        <item>0xe44a</item>
-        <item>0xe146</item>
-        <item>0xe50a</item>
-        <item>0xe505</item>
-        <item>0xe506</item>
-        <item>0xe122</item>
-        <item>0xe508</item>
-        <item>0xe509</item>
-        <item>0xe03b</item>
-        <item>0xe04d</item>
-        <item>0xe449</item>
-        <item>0xe44b</item>
-        <item>0xe51d</item>
-        <item>0xe44c</item>
-        <item>0xe124</item>
-        <item>0xe121</item>
-        <item>0xe433</item>
-        <item>0xe202</item>
-        <item>0xe135</item>
-        <item>0xe01c</item>
-        <item>0xe01d</item>
-        <item>0xe10d</item>
-        <item>0xe136</item>
-        <item>0xe42e</item>
-        <item>0xe01b</item>
-        <item>0xe15a</item>
-        <item>0xe159</item>
-        <item>0xe432</item>
-        <item>0xe430</item>
-        <item>0xe431</item>
-        <item>0xe42f</item>
-        <item>0xe01e</item>
-        <item>0xe039</item>
-        <item>0xe435</item>
-        <item>0xe01f</item>
-        <item>0xe125</item>
-        <item>0xe03a</item>
-        <item>0xe14e</item>
-        <item>0xe252</item>
-        <item>0xe137</item>
-        <item>0xe209</item>
-        <item>0xe154</item>
-        <item>0xe133</item>
-        <item>0xe150</item>
-        <item>0xe320</item>
-        <item>0xe123</item>
-        <item>0xe132</item>
-        <item>0xe143</item>
-        <item>0xe50b</item>
-        <item>0xe514</item>
-        <item>0xe513</item>
-        <item>0xe50c</item>
-        <item>0xe50d</item>
-        <item>0xe511</item>
-        <item>0xe50f</item>
-        <item>0xe512</item>
-        <item>0xe510</item>
-        <item>0xe50e</item>
-    </integer-array>
-    <integer-array name="smiley_sign_texts_global">
-        <item>0xe21c</item>
-        <item>0xe21d</item>
-        <item>0xe21e</item>
-        <item>0xe21f</item>
-        <item>0xe220</item>
-        <item>0xe221</item>
-        <item>0xe222</item>
-        <item>0xe223</item>
-        <item>0xe224</item>
-        <item>0xe225</item>
-        <item>0xe210</item>
-        <item>0xe232</item>
-        <item>0xe233</item>
-        <item>0xe235</item>
-        <item>0xe234</item>
-        <item>0xe236</item>
-        <item>0xe237</item>
-        <item>0xe238</item>
-        <item>0xe239</item>
-        <item>0xe23b</item>
-        <item>0xe23a</item>
-        <item>0xe23d</item>
-        <item>0xe23c</item>
-        <item>0xe24d</item>
-        <item>0xe212</item>
-        <item>0xe24c</item>
-        <item>0xe213</item>
-        <item>0xe214</item>
-        <item>0xe507</item>
-        <item>0xe203</item>
-        <item>0xe20b</item>
-        <item>0xe22a</item>
-        <item>0xe22b</item>
-        <item>0xe226</item>
-        <item>0xe227</item>
-        <item>0xe22c</item>
-        <item>0xe22d</item>
-        <item>0xe215</item>
-        <item>0xe216</item>
-        <item>0xe217</item>
-        <item>0xe218</item>
-        <item>0xe228</item>
-        <item>0xe151</item>
-        <item>0xe138</item>
-        <item>0xe139</item>
-        <item>0xe13a</item>
-        <item>0xe208</item>
-        <item>0xe14f</item>
-        <item>0xe20a</item>
-        <item>0xe434</item>
-        <item>0xe309</item>
-        <item>0xe315</item>
-        <item>0xe30d</item>
-        <item>0xe207</item>
-        <item>0xe229</item>
-        <item>0xe206</item>
-        <item>0xe205</item>
-        <item>0xe204</item>
-        <item>0xe12e</item>
-        <item>0xe250</item>
-        <item>0xe251</item>
-        <item>0xe14a</item>
-        <item>0xe149</item>
-        <item>0xe23f</item>
-        <item>0xe240</item>
-        <item>0xe241</item>
-        <item>0xe242</item>
-        <item>0xe243</item>
-        <item>0xe244</item>
-        <item>0xe245</item>
-        <item>0xe246</item>
-        <item>0xe247</item>
-        <item>0xe248</item>
-        <item>0xe249</item>
-        <item>0xe24a</item>
-        <item>0xe24b</item>
-        <item>0xe23e</item>
-        <item>0xe532</item>
-        <item>0xe533</item>
-        <item>0xe534</item>
-        <item>0xe535</item>
-        <item>0xe21a</item>
-        <item>0xe219</item>
-        <item>0xe21b</item>
-        <item>0xe02f</item>
-        <item>0xe024</item>
-        <item>0xe025</item>
-        <item>0xe026</item>
-        <item>0xe027</item>
-        <item>0xe028</item>
-        <item>0xe029</item>
-        <item>0xe02a</item>
-        <item>0xe02b</item>
-        <item>0xe02c</item>
-        <item>0xe02d</item>
-        <item>0xe02e</item>
-        <item>0xe332</item>
-        <item>0xe333</item>
-        <item>0xe24e</item>
-        <item>0xe24f</item>
-        <item>0xe537</item>
-    </integer-array>
-    <array name="smiley_normal_filenames" />
-    <string-array name="smiley_nature_filenames">
-        <item>e43e.png</item>
-        <item>e04f.png</item>
-        <item>e052.png</item>
-        <item>e053.png</item>
-        <item>e524.png</item>
-        <item>e52c.png</item>
-        <item>e52a.png</item>
-        <item>e531.png</item>
-        <item>e050.png</item>
-        <item>e527.png</item>
-        <item>e051.png</item>
-        <item>e10b.png</item>
-        <item>e52b.png</item>
-        <item>e52f.png</item>
-        <item>e109.png</item>
-        <item>e528.png</item>
-        <item>e01a.png</item>
-        <item>e134.png</item>
-        <item>e530.png</item>
-        <item>e529.png</item>
-        <item>e526.png</item>
-        <item>e52d.png</item>
-        <item>e521.png</item>
-        <item>e523.png</item>
-        <item>e52e.png</item>
-        <item>e055.png</item>
-        <item>e525.png</item>
-        <item>e10a.png</item>
-        <item>e522.png</item>
-        <item>e019.png</item>
-        <item>e054.png</item>
-        <item>e520.png</item>
-        <item>e306.png</item>
-        <item>e030.png</item>
-        <item>e304.png</item>
-        <item>e110.png</item>
-        <item>e032.png</item>
-        <item>e305.png</item>
-        <item>e303.png</item>
-        <item>e118.png</item>
-        <item>e447.png</item>
-        <item>e119.png</item>
-        <item>e307.png</item>
-        <item>e308.png</item>
-        <item>e444.png</item>
-        <item>e441.png</item>
-    </string-array>
-    <string-array name="smiley_life_filenames">
-        <item>e440.png</item>
-        <item>e442.png</item>
-        <item>e446.png</item>
-        <item>e445.png</item>
-        <item>e11b.png</item>
-        <item>e448.png</item>
-        <item>e033.png</item>
-        <item>e112.png</item>
-        <item>e325.png</item>
-        <item>e312.png</item>
-        <item>e310.png</item>
-        <item>e126.png</item>
-        <item>e127.png</item>
-        <item>e008.png</item>
-        <item>e03d.png</item>
-        <item>e00c.png</item>
-        <item>e12a.png</item>
-        <item>e00a.png</item>
-        <item>e00b.png</item>
-        <item>e009.png</item>
-        <item>e316.png</item>
-        <item>e129.png</item>
-        <item>e141.png</item>
-        <item>e142.png</item>
-        <item>e317.png</item>
-        <item>e128.png</item>
-        <item>e14b.png</item>
-        <item>e211.png</item>
-        <item>e114.png</item>
-        <item>e145.png</item>
-        <item>e144.png</item>
-        <item>e03f.png</item>
-        <item>e313.png</item>
-        <item>e116.png</item>
-        <item>e10f.png</item>
-        <item>e104.png</item>
-        <item>e103.png</item>
-        <item>e101.png</item>
-        <item>e102.png</item>
-        <item>e13f.png</item>
-        <item>e140.png</item>
-        <item>e11f.png</item>
-        <item>e12f.png</item>
-        <item>e031.png</item>
-        <item>e30e.png</item>
-        <item>e311.png</item>
-        <item>e113.png</item>
-        <item>e30f.png</item>
-        <item>e13b.png</item>
-        <item>e42b.png</item>
-        <item>e42a.png</item>
-        <item>e018.png</item>
-        <item>e016.png</item>
-        <item>e015.png</item>
-        <item>e014.png</item>
-        <item>e42c.png</item>
-        <item>e42d.png</item>
-        <item>e017.png</item>
-        <item>e013.png</item>
-        <item>e20e.png</item>
-        <item>e20c.png</item>
-        <item>e20f.png</item>
-        <item>e20d.png</item>
-        <item>e131.png</item>
-        <item>e12b.png</item>
-        <item>e130.png</item>
-        <item>e12d.png</item>
-        <item>e324.png</item>
-        <item>e301.png</item>
-        <item>e148.png</item>
-        <item>e502.png</item>
-        <item>e03c.png</item>
-        <item>e30a.png</item>
-        <item>e042.png</item>
-        <item>e040.png</item>
-        <item>e041.png</item>
-        <item>e12c.png</item>
-        <item>e007.png</item>
-        <item>e31a.png</item>
-        <item>e13e.png</item>
-        <item>e31b.png</item>
-        <item>e006.png</item>
-        <item>e302.png</item>
-        <item>e319.png</item>
-        <item>e321.png</item>
-        <item>e322.png</item>
-        <item>e314.png</item>
-        <item>e503.png</item>
-        <item>e10e.png</item>
-        <item>e318.png</item>
-        <item>e43c.png</item>
-        <item>e11e.png</item>
-        <item>e323.png</item>
-        <item>e31c.png</item>
-        <item>e034.png</item>
-        <item>e035.png</item>
-        <item>e045.png</item>
-        <item>e338.png</item>
-        <item>e047.png</item>
-        <item>e30c.png</item>
-        <item>e044.png</item>
-        <item>e30b.png</item>
-        <item>e043.png</item>
-        <item>e120.png</item>
-        <item>e33b.png</item>
-        <item>e33f.png</item>
-        <item>e341.png</item>
-        <item>e34c.png</item>
-        <item>e344.png</item>
-        <item>e342.png</item>
-        <item>e33d.png</item>
-        <item>e33e.png</item>
-        <item>e340.png</item>
-        <item>e34d.png</item>
-        <item>e339.png</item>
-        <item>e147.png</item>
-        <item>e343.png</item>
-        <item>e33c.png</item>
-        <item>e33a.png</item>
-        <item>e43f.png</item>
-        <item>e34b.png</item>
-        <item>e046.png</item>
-        <item>e345.png</item>
-        <item>e346.png</item>
-        <item>e348.png</item>
-        <item>e347.png</item>
-        <item>e34a.png</item>
-        <item>e349.png</item>
-    </string-array>
-    <string-array name="smiley_car_filenames">
-        <item>e501.png</item>
-        <item>e158.png</item>
-        <item>e43d.png</item>
-        <item>e037.png</item>
-        <item>e504.png</item>
-        <item>e44a.png</item>
-        <item>e146.png</item>
-        <item>e50a.png</item>
-        <item>e505.png</item>
-        <item>e506.png</item>
-        <item>e122.png</item>
-        <item>e508.png</item>
-        <item>e509.png</item>
-        <item>e03b.png</item>
-        <item>e04d.png</item>
-        <item>e449.png</item>
-        <item>e44b.png</item>
-        <item>e51d.png</item>
-        <item>e44c.png</item>
-        <item>e124.png</item>
-        <item>e121.png</item>
-        <item>e433.png</item>
-        <item>e202.png</item>
-        <item>e135.png</item>
-        <item>e01c.png</item>
-        <item>e01d.png</item>
-        <item>e10d.png</item>
-        <item>e136.png</item>
-        <item>e42e.png</item>
-        <item>e01b.png</item>
-        <item>e15a.png</item>
-        <item>e159.png</item>
-        <item>e432.png</item>
-        <item>e430.png</item>
-        <item>e431.png</item>
-        <item>e42f.png</item>
-        <item>e01e.png</item>
-        <item>e039.png</item>
-        <item>e435.png</item>
-        <item>e01f.png</item>
-        <item>e125.png</item>
-        <item>e03a.png</item>
-        <item>e14e.png</item>
-        <item>e252.png</item>
-        <item>e137.png</item>
-        <item>e209.png</item>
-        <item>e154.png</item>
-        <item>e133.png</item>
-        <item>e150.png</item>
-        <item>e320.png</item>
-        <item>e123.png</item>
-        <item>e132.png</item>
-        <item>e143.png</item>
-        <item>e50b.png</item>
-        <item>e514.png</item>
-        <item>e513.png</item>
-        <item>e50c.png</item>
-        <item>e50d.png</item>
-        <item>e511.png</item>
-        <item>e50f.png</item>
-        <item>e512.png</item>
-        <item>e510.png</item>
-        <item>e50e.png</item>
-    </string-array>
-    <string-array name="smiley_sign_filenames">
-        <item>e223.png</item>
-        <item>e224.png</item>
-        <item>e225.png</item>
-        <item>e210.png</item>
-        <item>e232.png</item>
-        <item>e233.png</item>
-        <item>e235.png</item>
-        <item>e234.png</item>
-        <item>e236.png</item>
-        <item>e237.png</item>
-        <item>e238.png</item>
-        <item>e239.png</item>
-        <item>e23b.png</item>
-        <item>e23a.png</item>
-        <item>e23d.png</item>
-        <item>e23c.png</item>
-        <item>e24d.png</item>
-        <item>e212.png</item>
-        <item>e24c.png</item>
-        <item>e213.png</item>
-        <item>e214.png</item>
-        <item>e507.png</item>
-        <item>e203.png</item>
-        <item>e20b.png</item>
-        <item>e22a.png</item>
-        <item>e22b.png</item>
-        <item>e226.png</item>
-        <item>e227.png</item>
-        <item>e22c.png</item>
-        <item>e22d.png</item>
-        <item>e215.png</item>
-        <item>e216.png</item>
-        <item>e217.png</item>
-        <item>e218.png</item>
-        <item>e228.png</item>
-        <item>e151.png</item>
-        <item>e138.png</item>
-        <item>e139.png</item>
-        <item>e13a.png</item>
-        <item>e208.png</item>
-        <item>e14f.png</item>
-        <item>e20a.png</item>
-        <item>e434.png</item>
-        <item>e309.png</item>
-        <item>e315.png</item>
-        <item>e30d.png</item>
-        <item>e207.png</item>
-        <item>e229.png</item>
-        <item>e206.png</item>
-        <item>e205.png</item>
-        <item>e204.png</item>
-        <item>e12e.png</item>
-        <item>e250.png</item>
-        <item>e251.png</item>
-        <item>e14a.png</item>
-        <item>e149.png</item>
-        <item>e23f.png</item>
-        <item>e240.png</item>
-        <item>e241.png</item>
-        <item>e242.png</item>
-        <item>e243.png</item>
-        <item>e244.png</item>
-        <item>e245.png</item>
-        <item>e246.png</item>
-        <item>e247.png</item>
-        <item>e248.png</item>
-        <item>e249.png</item>
-        <item>e24a.png</item>
-        <item>e24b.png</item>
-        <item>e23e.png</item>
-        <item>e532.png</item>
-        <item>e533.png</item>
-        <item>e534.png</item>
-        <item>e535.png</item>
-        <item>e21a.png</item>
-        <item>e219.png</item>
-        <item>e21b.png</item>
-        <item>e02f.png</item>
-        <item>e024.png</item>
-        <item>e025.png</item>
-        <item>e026.png</item>
-        <item>e027.png</item>
-        <item>e028.png</item>
-        <item>e029.png</item>
-        <item>e02a.png</item>
-        <item>e02b.png</item>
-        <item>e02c.png</item>
-        <item>e02d.png</item>
-        <item>e02e.png</item>
-        <item>e332.png</item>
-        <item>e333.png</item>
-        <item>e24e.png</item>
-        <item>e24f.png</item>
-        <item>e537.png</item>
-    </string-array>
-    <integer-array name="smiley_rubbish_texts_global">
-        <item>0xe335</item>
-        <item>0xe336</item>
-        <item>0xe337</item>
-    </integer-array>
     <string-array name="smiley_rubbish_texts">
         <item>[Star]</item>
         <item>[?]</item>
         <item>[!]</item>
     </string-array>
     <string-array name="namecard_first_photo_choices">
-        <item>Enlarge</item>
-        <item>Retake</item>
-        <item>Photo Gallery</item>
-        <item>Delete</item>
+        <item>Изменить размер</item>
+        <item>Камера</item>
+        <item>Галерея</item>
+        <item>Удалить</item>
     </string-array>
     <string-array name="namecard_remain_one_photo_choices">
-        <item>Enlarge</item>
-        <item>Retake</item>
-        <item>Photo Gallery</item>
+        <item>Изменить размер</item>
+        <item>Камера</item>
+        <item>Галерея</item>
     </string-array>
     <string-array name="namecard_school_choices">
-        <item>University</item>
-        <item>High School</item>
+        <item>Университет</item>
+        <item>Высшая школа</item>
     </string-array>
     <string-array name="namecard_inform_choices">
-        <item>Personal Attact</item>
-        <item>Scam</item>
-        <item>Other</item>
+        <item>Личные</item>
+        <item>Афера</item>
+        <item>Другие</item>
     </string-array>
     <string-array name="namecard_photo_choices">
-        <item>Enlarge</item>
-        <item>Make this default</item>
-        <item>Retake</item>
-        <item>Photo Gallery</item>
-        <item>Delete</item>
+        <item>Изменить размер</item>
+        <item>Установить как основную</item>
+        <item>Камера</item>
+        <item>Галерея</item>
+        <item>Удалить</item>
     </string-array>
     <string-array name="pickture_choices">
-        <item>Camera</item>
-        <item>Photo Gallery</item>
+        <item>Камера</item>
+        <item>Галерея</item>
     </string-array>
     <string-array name="chose_pic_quality">
-        <item>High quality</item>
-        <item>Data save mode</item>
+        <item>Высокое</item>
+        <item>Низкое</item>
     </string-array>
     <string-array name="correlation">
-        <item>Schoolmate</item>
-        <item>Colleague</item>
-        <item>Ex co-worker</item>
-        <item>新浪微博好友</item>
-        <item>人人网好友</item>
-        <item>From your hometown</item>
-        <item>From your industry</item>
+        <item>Школьный товарищ</item>
+        <item>Коллега</item>
+        <item>Бывший сотрудник</item>
+        <item>Друзья из Sina</item>
+        <item>Друзья из Renren</item>
+        <item>Из вашего города</item>
+        <item>Из вашей отрасли</item>
     </string-array>
     <string-array name="midschool">
-        <item>Junior High</item>
-        <item>High School</item>
+        <item>Средняя школа</item>
+        <item>Высшая школа</item>
     </string-array>
     <string-array name="education">
-        <item>大专</item>
-        <item>本科</item>
-        <item>硕士研究生</item>
-        <item>博士</item>
+        <item>Колледж</item>
+        <item>Бакалавриат</item>
+        <item>Выпускник</item>
+        <item>Врач</item>
     </string-array>
     <string-array name="visible">
-        <item>Show to all</item>
-        <item>Show to contacts</item>
-        <item>Hide</item>
+        <item>Показать все</item>
+        <item>Показать контакты</item>
+        <item>Скрыть</item>
     </string-array>
     <string-array name="school_choices">
-        <item>University</item>
-        <item>Junior high</item>
-        <item>High school</item>
+        <item>Университет</item>
+        <item>Средняя школа</item>
+        <item>Высшая школа</item>
     </string-array>
     <string-array name="namecard_sex_choices">
-        <item>Male</item>
-        <item>Female</item>
+        <item>Муж.</item>
+        <item>Жен.</item>
     </string-array>
     <string-array name="constellations">
-        <item>Aries</item>
-        <item>Taurus</item>
-        <item>Gemini</item>
-        <item>Cancer</item>
-        <item>Leo</item>
-        <item>Virgo</item>
-        <item>Libra</item>
-        <item>Scorpio</item>
-        <item>Sagittarius</item>
-        <item>Capricorn</item>
-        <item>Aquarius</item>
-        <item>Pisces</item>
-    </string-array>
-    <string-array name="sns_list">
-        <item>SINA_WEIBO</item>
-        <item>RE</item>
-    </string-array>
-    <string-array name="effect_name">
-        <item>自然美肤</item>
-        <item>夜色朦胧</item>
-        <item>暖暖阳光</item>
-        <item>清新丽人</item>
-        <item>电影</item>
-        <item>时尚</item>
-        <item>热情</item>
-        <item>枫叶</item>
-    </string-array>
-    <string-array name="effect_str">
-        <item>effect=xiaomi_skinsoft</item>
-        <item>effect=xiaomi_retro_night</item>
-        <item>effect=xiaomi_skin_sunshine</item>
-        <item>effect=xiaomi_skin_greenish</item>
-        <item>effect=xiaomi_lomo_film</item>
-        <item>effect=xiaomi_lomo_greenish</item>
-        <item>effect=xiaomi_lomo_red</item>
-        <item>effect=xiaomi_lomo_fengye</item>
+        <item>Овен</item>
+        <item>Телец</item>
+        <item>Близнецы</item>
+        <item>Рак</item>
+        <item>Лев</item>
+        <item>Дева</item>
+        <item>Весы</item>
+        <item>Скорпион</item>
+        <item>Стрелец</item>
+        <item>Козерог</item>
+        <item>Водолей</item>
+        <item>Рыбы</item>
     </string-array>
     <string-array name="pref_notification_choices">
-        <item>Off</item>
-        <item>Notifications only</item>
-        <item>Ring</item>
-        <item>Vibrate</item>
-        <item>Ring and Vibrate</item>
-    </string-array>
-    <string-array name="pref_notification_values">
-        <item>NONE</item>
-        <item>BUBBLE</item>
-        <item>SOUND</item>
-        <item>VIBRATE</item>
-        <item>SOUND_VIBRATE</item>
+        <item>Выключено</item>
+        <item>Всплывающие окна</item>
+        <item>Звук</item>
+        <item>Вибрация</item>
+        <item>Звук и вибрация</item>
     </string-array>
     <string-array name="supported_emails">
         <item>gmail.com</item>
         <item>hotmail.com</item>
     </string-array>
     <string-array name="pref_privacy_fri_verify_choices">
-        <item>No confirmation required</item>
-        <item>Require confirmation</item>
-        <item>Disable add me</item>
-    </string-array>
-    <string-array name="pref_privacy_fri_verify_values">
-        <item>NO_VERIFY</item>
-        <item>VERIFY</item>
-        <item>NO_ADD</item>
+        <item>Без подтверждения</item>
+        <item>Требовать подтверждение</item>
+        <item>Не добавлять меня</item>
     </string-array>
     <string-array name="remind_week_days">
-        <item>Sun.</item>
-        <item>Mon.</item>
-        <item>Tues.</item>
-        <item>Wed.</item>
-        <item>Thurs.</item>
-        <item>Fri.</item>
-        <item>Sat.</item>
+        <item>Вс.</item>
+        <item>Пн.</item>
+        <item>Вт.</item>
+        <item>Ср.</item>
+        <item>Чт.</item>
+        <item>Пт.</item>
+        <item>Сб.</item>
     </string-array>
     <string-array name="remind_repeat_mode_week_days">
-        <item>Mon.</item>
-        <item>Tues.</item>
-        <item>Wed.</item>
-        <item>Thurs.</item>
-        <item>Fri.</item>
-        <item>Sat.</item>
-        <item>Sun.</item>
+        <item>Пн.</item>
+        <item>Вт.</item>
+        <item>Ср.</item>
+        <item>Чт.</item>
+        <item>Пт.</item>
+        <item>Сб.</item>
+        <item>Вс.</item>
     </string-array>
     <string-array name="picture_quick_choices">
-        <item>Camera</item>
-        <item>Photo Gallery</item>
-        <item>GIF</item>
-    </string-array>
-    <string-array name="who_can_send_me_choices">
-        <item>@string/sixin_private_all</item>
-        <item>@string/sixin_i_add</item>
-    </string-array>
-    <string-array name="who_can_send_me_values">
-        <item>4</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="sixin_remind_choices">
-        <item>@string/sixin_sound_remind</item>
-        <item>@string/sixin_shock_remind</item>
-        <item>@string/sixin_sys_notification</item>
-    </string-array>
-    <string-array name="sixin_remind_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
+        <item>Камера</item>
+        <item>Галерея</item>
+        <item>Анимация</item>
     </string-array>
     <string-array name="notification_center_operation_items">
-        <item>Show all friend requests</item>
-        <item>Clear the list</item>
+        <item>Показать все запросы</item>
+        <item>Очистить список</item>
     </string-array>
     <string-array name="complete_profile_choose_sig">
         <item>我想和你一起吹吹风</item>
@@ -1636,50 +676,50 @@
         <item>浪骚也需要资本</item>
     </string-array>
     <string-array name="sixin_setting_choices">
-        <item>Select to delete</item>
-        <item>Clear all</item>
-        <item>Setting</item>
+        <item>Выберите для удаления</item>
+        <item>Удалить все</item>
+        <item>Настройки</item>
     </string-array>
     <string-array name="muc_setting_notify_choices">
-        <item>Off</item>
-        <item>Notification only</item>
-        <item>Ring</item>
-        <item>Vibrate</item>
-        <item>Ring and vibrate</item>
+        <item>Выключено</item>
+        <item>Всплывающие окна</item>
+        <item>Звук</item>
+        <item>Вибрация</item>
+        <item>Звук и вибрация</item>
     </string-array>
     <string-array name="muc_setting_member_icon_choices">
-        <item>Enlarge</item>
+        <item>Изменить размер</item>
     </string-array>
     <string-array name="find_group_title_filter">
-        <item>All</item>
-        <item>Schoolmates</item>
-        <item>Colleagues</item>
+        <item>Все</item>
+        <item>Одноклассники</item>
+        <item>Однокурсники</item>
     </string-array>
     <string-array name="month">
-        <item>January</item>
-        <item>February</item>
-        <item>March</item>
-        <item>April</item>
-        <item>May</item>
-        <item>June</item>
-        <item>July</item>
-        <item>August</item>
-        <item>September</item>
-        <item>October</item>
-        <item>November</item>
-        <item>December</item>
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
     </string-array>
     <string-array name="chose_group_kind_title">
-        <item>Workplace</item>
-        <item>School</item>
-        <item>Public</item>
-        <item>Private</item>
+        <item>Работа</item>
+        <item>Школа</item>
+        <item>Публично</item>
+        <item>Приватно</item>
     </string-array>
     <string-array name="chose_group_kind_content">
-        <item>This group will be recommended to your colleagues.</item>
-        <item>This group will be recommended to your schoolmates.</item>
-        <item>This group will be recommended to people have same interest.</item>
-        <item>We will not recommend this group to anyone.</item>
+        <item>Эта группа рекомендована для ваших коллег.</item>
+        <item>Эта группа рекомендована для одноклассников.</item>
+        <item>Эта группа рекомендована для людей с одинаковыми интересами.</item>
+        <item>Мы не рекомендуем эту группу всем.</item>
     </string-array>
     <string-array name="pref_muc_notification_choices">
         <item>NOT NOTIFY</item>
@@ -1688,64 +728,36 @@
         <item>TEN MINUTES</item>
         <item>ONE HOUR</item>
     </string-array>
-    <string-array name="pref_muc_notification_values">
-        <item>NOT NOTIFY</item>
-        <item>NOTIFY</item>
-        <item>ONE MINUTE</item>
-        <item>TEN MINUTES</item>
-        <item>ONE HOUR</item>
-    </string-array>
     <string-array name="send_card_types">
-        <item>Phone contact</item>
-        <item>MiTalk contact</item>
-        <item>MiTalk group</item>
-    </string-array>
-    <string-array name="context_anim_1">
-        <item>新年快乐</item>
-        <item>春节快乐</item>
-        <item>蛇年快乐</item>
-        <item>新春欢乐</item>
-        <item>阖家欢乐</item>
-        <item>吉祥如意</item>
-        <item>万事如意</item>
-    </string-array>
-    <string-array name="context_anim_2">
-        <item>恭喜发财</item>
-        <item>财源广进</item>
-        <item>红包</item>
-        <item>财源滚滚</item>
+        <item>Контакты телефона</item>
+        <item>Контакты MiTalk</item>
+        <item>Группы MiTalk</item>
     </string-array>
     <string-array name="industries">
-        <item>In School</item>
-        <item>Service</item>
-        <item>Social Work</item>
-        <item>Housing/Civil</item>
-        <item>IT/Telecom/Internet</item>
-        <item>Car/Industrial</item>
-        <item>Manufacture/Logistics</item>
-        <item>Management/Operation/Human Resource</item>
-        <item>Medical/Pharmaceutical/Clean Tech</item>
-        <item>Sales/Merchandise/Support</item>
-        <item>Consulting/Law/Education</item>
-        <item>Marketing/Media/Design</item>
-        <item>Government Official</item>
-        <item>Others</item>
-    </string-array>
-    <string-array name="context_anim_3">
-        <item>情人节快乐</item>
-        <item>"Happy Valentine's Day"</item>
-        <item>"happy Valentine's day"</item>
-        <item>"happy valentine's day"</item>
+        <item>Школа</item>
+        <item>Сервис</item>
+        <item>Работа</item>
+        <item>Гражданство</item>
+        <item>Интернет и телекоммуникации</item>
+        <item>Машины и индустрия</item>
+        <item>Производство</item>
+        <item>Менеджмент</item>
+        <item>Медицина</item>
+        <item>Продажи</item>
+        <item>Образование</item>
+        <item>Дизайн</item>
+        <item>Государство</item>
+        <item>Другое</item>
     </string-array>
     <string-array name="chose_festival">
-        <item>春节</item>
-        <item>情人节</item>
-        <item>元宵节</item>
+        <item>Китайский Новый год</item>
+        <item>День святого Валентина</item>
+        <item>Фестиваль Фонарей</item>
     </string-array>
     <string-array name="chose_chunjie">
-        <item>春节2</item>
-        <item>春节3</item>
-        <item>春节4</item>
+        <item>2-й год</item>
+        <item>3-й год</item>
+        <item>4-й год</item>
     </string-array>
     <string-array name="chose_valentine">
         <item>情人节节</item>
@@ -1760,56 +772,58 @@
         <item>元宵节hah1</item>
     </string-array>
     <string-array name="property_choices">
-        <item>公司</item>
-        <item>学校</item>
-        <item>兴趣标签</item>
+        <item>Компания</item>
+        <item>Школа</item>
+        <item>Интересы</item>
     </string-array>
     <string-array name="find_friend_operations">
-        <item>Delete</item>
+        <item>Удалить</item>
     </string-array>
     <string-array name="find_muc_selected">
-        <item>全部</item>
-        <item>同学</item>
-        <item>同事</item>
-        <item>兴趣</item>
-        <item>最新</item>
+        <item>Все</item>
+        <item>Одноклассники</item>
+        <item>Коллеги</item>
+        <item>Интересы</item>
+        <item>Последние</item>
     </string-array>
     <string-array name="pref_video_recording_choices">
-        <item>Low data use mode</item>
-        <item>Data save mode</item>
-        <item>High quality mode</item>
+        <item>Низкое</item>
+        <item>Среднее</item>
+        <item>Высокое</item>
     </string-array>
     <string-array name="pref_locale_name_choices">
-        <item>English</item>
-        <item>繁體中文（台灣）</item>
-        <item>繁體中文（香港）</item>
-        <item>简体中文</item>
-        <item>系统语言</item>
+        <item>Английский</item>
+        <item>Китайский (Тайвань)</item>
+        <item>Китайский (Гонконг)</item>
+        <item>Упрощенный китайский</item>
+        <item>Русский</item>
+        <item>Системный</item>
     </string-array>
     <string-array name="pref_locale_choices">
         <item>en</item>
         <item>zh_tw</item>
         <item>zh_hk</item>
         <item>zh_cn</item>
+        <item>ru</item>
         <item>default_locale</item>
     </string-array>
     <string-array name="pref_privacy_search_type_name">
-        <item>Via MiID/name/school/company</item>
-        <item>Via MiID</item>
+        <item>По MiID/имени/школе/компании</item>
+        <item>Только по MiID</item>
     </string-array>
     <string-array name="pref_privacy_search_type">
         <item>0</item>
         <item>1</item>
     </string-array>
     <string-array name="pref_color_name">
-        <item>System Default</item>
-        <item>Blue</item>
-        <item>Red</item>
-        <item>Yellow</item>
-        <item>Green</item>
-        <item>Cyan</item>
-        <item>White</item>
-        <item>Purple</item>
+        <item>Системный</item>
+        <item>Синий</item>
+        <item>Красный</item>
+        <item>Желтый</item>
+        <item>Зеленый</item>
+        <item>Голубой</item>
+        <item>Белый</item>
+        <item>Фиолетовый</item>
     </string-array>
     <string-array name="pref_color_value">
         <item>0</item>
@@ -1822,28 +836,229 @@
         <item>ff00ff</item>
     </string-array>
     <string-array name="wall_operations">
-        <item>Report</item>
-        <item>Block</item>
+        <item>Отзыв</item>
+        <item>Блокировка</item>
     </string-array>
     <string-array name="contacts_batch">
-        <item>批量邀请</item>
+        <item>Групповое приглашение</item>
     </string-array>
     <string-array name="pick_image">
-        <item>相机</item>
-        <item>图库</item>
+        <item>Камера</item>
+        <item>Галерея</item>
     </string-array>
     <string-array name="edit_image">
-        <item>滤镜</item>
-        <item>删除</item>
+        <item>Фильтр</item>
+        <item>Удалить</item>
     </string-array>
     <string-array name="archive_remind_frequency">
-        <item>实时</item>
-        <item>每10分钟</item>
-        <item>每小时</item>
-        <item>每天</item>
-        <item>不提醒</item>
+        <item>Сейчас</item>
+        <item>Каждые 10 минут</item>
+        <item>Каждый час</item>
+        <item>Каждый день</item>
+        <item>Не напоминать</item>
     </string-array>
     <string-array name="copy_to_clipboard">
-        <item>Copy</item>
+        <item>Копировать</item>
+    </string-array>
+    <string-array name="add_photo_list">
+        <item>拍照</item>
+        <item>本地上传</item>
+    </string-array>
+    <string-array name="zhengren">
+        <item>未来两天有寒流,请帅气的男生漂亮的女生添衣保暖,丑的就不用了,冻死一个少一个,以美化城市。此短信已通过技术处理,仅帅哥美女能收到…噢!刚才有一个姓胡的打电话来问你的号码.我没有告诉他.最后他哭着说他是胡锦涛.并让我转告你:党中央祝你身体健康!嘿嘿,如果接到此短信请发给你关心的人提醒他们注意保暖!今年的冬天会很冷^_^嘿嘿…</item>
+        <item>饮水机和一群电脑打麻将，饮水机每天输依然天天打。旁边的沙发问椅子：“饮水机每天都输，为啥还打呢？”椅子答：“问这种问题，你脑袋也进水了吧？”</item>
+        <item>听说你最近很神气：普京扶你下飞机，布什给你当司机，麦当娜陪你上楼梯，金喜善给你做烤鸡，刘德华帮你倒垃圾，连我都要给你发短信息。朋友，你火了！</item>
+        <item>恭喜您！已被联合国青蛙大学癞蛤蟆系不要脸班录取，请携带精神病证明，坐514路公交车到傻瓜路蠢的要死街下车，报名时请站在校门口傻笑！</item>
+        <item>问卷调查：1、你是否言而有“信”？2、你是否接受“信”交往？3、你是否欢迎“信”骚挠？4、你是否鄙视“信”冷淡？全选是，我将祝你“信”福！</item>
+        <item>昨天有人说你是狗，我把他狠狠地批了一顿。太不象话了，怎么能人家像什么就说人家是什么。</item>
+        <item>情商测试：十个人之中有九个人收到这条短信都会打开。可见这世上缺乏自制力的人很多。你也是。</item>
+        <item>国际青年的标准：至少懂一门外语，鸟语也算；至少有一个外文名字，拼音也算；至少有一个外国朋友，混血也算；至少出一次国，梦里也算！你符合标准吗？</item>
+        <item>唐僧被山贼绑架，为了索要赎金，山贼就打孙悟空手机，提示音：对方已飞出服务区！他就问唐僧：猪八戒的号码是多少？唐僧：我已给它发了短信，它正在看。</item>
+        <item>你酷，你帅，你是钻石王老五，追你的美眉排成行，任你挑来任你选，乐得你脸儿开花心乱跳，突听耳边一声响“捡破烂的，不许在这里睡觉”</item>
+        <item>尽管我很节俭，我还是喜欢你天天请我去酒店，档次越高我越高兴。不要纳闷：喝你买的茅台，比喝我家的自来水都便宜</item>
+        <item>施主：你好！我们是藏边佛教理事会，在你接到这条短信时我们已从你的手机费中扣除了50元捐助款，为了答谢您，本理事会授予你至高无上的法号——智障。</item>
+        <item>挑战夏天极限。极限一：任蚊子咬不反抗。奖励：红包多多。极限二：抵制冰淇淋诱惑。奖励：免费减肥。极限三：烈日下暴晒。奖励：焗桑拿。</item>
+        <item>嫦娥一回头，天蓬变八戒，唐僧一回头，大圣变悟空，观音一回头，太子变白马，你一回头，王子变青蛙。夏天来了，如果你招蚊子的话就猛回头吧，美女。</item>
+        <item>尊敬的用户:您的手机自本月起已具有提款功能,请将手机砸扁插入提款机即可取款!如不成功请于本信息中心联系.中心网址:三达不溜点不吭你吭谁点靠姆</item>
+        <item>恭喜你!我们终于在人才市场发现你这个价值百万年薪的人才,请速带齐行李物品在我们下班后到门卫值班。</item>
+        <item>刚才我一个瘸子跑过来告诉我说，一个哑巴告诉他聋子听见瞎子说她看见你在大街上被警察带走了，特发此信息求证。静候佳音…</item>
+        <item>我最近想开个减肥中心保证赚钱，你来帮个忙吧。我让他们整天对这张猪脸，他们一准吃不下饭！万一有人忍不住吃了。。。我就让他看看你再吐出来！</item>
+        <item>人人爱上你是因为你身上继承了东方女人传统的优点：一美丽二善良三贤惠四勤劳五温柔六纯洁七朴实八端庄。为了突出你的优点，所以大家都喜欢叫你：八婆</item>
+        <item>说你不美丽，那是在骗你；说你不通情，那是误解你；说你不温柔，根本没理由；说你不聪明，绝对没道理。一切美好都给你，可惜今天愚人节，也要快乐哦～</item>
+        <item>不是直到今天才想起你，不是直到此时才敢发短信你，只是在今天此时此刻，才有勇气跟你说：我~爱~你。。。还有，祝愚人节快乐！（呵呵，爱信不信）</item>
+        <item>漫漫人生路，总会错几步。酱油当成醋，走路撞到树。头发长长像破布，睡觉尿床装李杜。东边住着孙大柱，西边住着海大富，人生啊——时光漫步！</item>
+        <item>测试一下普通话:请大声喊出下面的诗句:暗是绿,暗是竹;暗是透春绿,暗是透春竹.做者,暗实沙子</item>
+        <item>以收到信息为荣，以愚弄别人为耻；以问候祝福为荣，以整蛊调侃为耻；以真情实意为荣，以虚情假意为耻；以迅速回复为荣，以置之不理为耻！</item>
+    </string-array>
+    <string-array name="zhongqiu">
+        <item>中秋月圆之夜，快递员嫦娥会送你一个我亲手做的电子月饼，它饱含思念，裹着真情，低碳环保，不含添加剂。（不管你信不信，反正我寄了。）中秋快 乐！</item>
+        <item>非常荣幸邀请你及家人出席中秋夜宴，菜单如下：红烧快乐，火爆开心，油炸浪漫，清蒸健康，水煮团圆，干煸四季欢乐豆，烘烤友情黑面包，谢拒自带 月饼!</item>
+        <item>我冒着手机没电的危险，顶着网络塞车的风险，跨过信号屏敝的天险，忍受电磁辐射的凶险，突破月黑风高的艰险，终于成功送出这条祝福：中秋快乐！</item>
+        <item>不深交的朋友，关系不会铁；不是至真的短信，俺们不会写；不达目的的问候，它就是一个帖；不以放假为目的的过节，我们都跟它有过节。祝中秋假期 快乐！</item>
+        <item>景是中秋美，月是故乡明；把酒庆佳节，合家笑盈盈；年年花相似，岁岁人更兴；三言又两语，字字总关情；问候传喜讯，更有好前景。中秋快乐！</item>
+        <item>月圆也有云遮月，人生总有坎坷时，生活难免不如意，光明总现黎明时。真心地感谢您无私地给予了我最关键的帮助，祝全家幸福，中秋快乐！</item>
+        <item>流星划过天际，我错过了许愿；浪花拍上岩石，我错过了祝福；故事讲了一遍，我错过了聆听；人生只有一回，我庆幸没有错过你这个朋友！祝你中秋快 乐！</item>
+        <item>神武英明盖世无双，人见人爱花见花开，打遍天下无敌手，情场杀手鬼见愁玉面飞龙，人称美貌无双心地善良，晕倒一片的我祝你中秋快乐！</item>
+        <item>取快乐无忧之泉，和健康平安之面，捏花好月圆之皮，包甜蜜幸福之馅。用关怀体贴之火烘烤，以思念祝福之信传递，送上特制月饼，祝中秋快乐！</item>
+        <item>丰收这幸福做陷，聚集这快乐做皮，取这天上的月亮为模型，为你做这世界上最为圆满的月饼，希望你中秋佳节人月两团圆，中秋节快乐。</item>
+        <item>一年中秋又来到，远在他乡的我，心中只有一个信念－－祝家中的亲人们永远幸福安康！</item>
+        <item>每逢佳节倍思亲，我想说，无论我身在何处，无论我人在何方，我的心永远和你们在一起！</item>
+        <item>送一个圆圆的饼，献一颗圆圆的心，寄一份圆圆的情，圆一个圆圆的梦。中秋节快乐！</item>
+        <item>床前明月光头佬，疑是地上镶牙佬，举头望明月饼佬，低头思故乡下佬。看此消息正傻佬！</item>
+        <item>月有阴情圆缺，人有悲欢离合。希望从今天起月亮永远是圆的，你永远是快乐的！祝你中秋节愉快！</item>
+        <item>在此中秋佳节来临之际，愿你心情如秋高气爽！笑脸如鲜花常开！愿望个个如愿！中秋快乐！</item>
+        <item>中秋就快到了我要送你一个月饼。第一层体贴！第二层关怀！第三层浪漫！中间夹层甜蜜！愿你喜欢！</item>
+        <item>送上香甜的月饼，连同一颗祝福的心...愿你过的每一天都象十五的月亮一样成功 !</item>
+        <item>明月本无价，高山皆有情。愿你的生活就象这十五的月亮一样，圆圆满满！</item>
+        <item>千好万好事事好，月圆情圆人团圆，祝：中秋节快乐，万事如意，心想事成！</item>
+        <item>我们的距离虽然远，但是你永远挂在我心中，就如八月十五这一天，希望永远记的我，中秋节快乐。</item>
+        <item>嗨，嫦娥让我给你带个话，今年中秋给她留点月饼渣，她明年会给你送个大金月饼。</item>
+        <item>送上香甜的月饼，连同一颗祝福的心...愿你过的每一天都象十五的月亮一样成功 !</item>
+        <item>又是一年月圆夜，月下为你许三愿：一愿美梦好似月儿圆，二愿日子更比月饼甜，三愿美貌犹如月中仙。：）</item>
+        <item>在人月两团圆,普天同庆的日子愿你:有泡不完的帅哥！“吊”不完的凯子。随心所欲（遇)!!花好月圆人更“圆”!!</item>
+        <item>明月几时有，把饼问青天，不知饼中何馅，今日是莲蓉，我欲乘舟观月，又恐飞船太慢，远处不胜寒。</item>
+        <item>月是中秋分外明，我把问候遥相寄；皓月当空洒清辉，中秋良宵念挚心；祝愿佳节多好运，月圆人圆事事圆！</item>
+        <item>我正着手筹备公司生产月饼。用浪漫做皮；用温馨做馅；幸福做蛋王；懂得品味的人不需要多，最好只有你一个！</item>
+        <item>嗨，嫦娥让我给你带个话，今年中秋给她留点月饼渣，她明年会给你送个大金月饼。祝中秋节快乐！</item>
+        <item>千好万好事事好，月圆情圆人团圆，祝：中秋节快乐，万事如意，心想事成！</item>
+        <item>我们的距离虽然远，但是你永远挂在我心中，就如八月十五这一天，希望永远记的我，中秋节快乐。</item>
+        <item>月到双节分外明，节日喜气伴你行。人逢喜事精神爽，人团家圆事业成。节日愉快身体硬，心想事成您准赢。</item>
+        <item>春江潮水连海平，海上明月共潮生，花好月圆人团聚，祝福声声伴你行。朋友：中秋快乐！</item>
+        <item>明月清风寄相思！让月儿捎上我的祝福传递给你；让思念化作一缕轻风，柔柔的吻过你的脸！</item>
+        <item>月缺时我想你，月圆时我念你，无论月圆月缺，我的心如那恒古不变的月光默默的为你祝福.祝中秋节快乐</item>
+        <item>明月，一闪一闪，挂天边；思念，一丝一丝，连成线；回忆，一幕一幕，在眼前；但愿，一年一年，人圆全。</item>
+        <item>月到中秋分外明，节日喜气伴你行。人逢喜事精神爽，人团家圆事业旺。节日愉快身体硬，心想事成您准赢。</item>
+        <item>佳节到,送您个月鉼:第一层财运;第二层幸运;第三层福运;第四层浪漫;中间夹层甜密%祝您天天好心情;</item>
+        <item>相隔十万八千里，却沐浴在同一片月光下，迎接同一个节日，中秋，让月光送去我的祝福：团圆，快乐每一天！</item>
+    </string-array>
+    <string-array name="guoqing">
+        <item>转眼国庆到，在这普天同庆的日子里，我分分秒秒的祝福，化作蒲公英，随轻风飘送；我时时刻刻的关心，变成小纸船，顺柔水漂流。希望我的祝福与关心是第一个。</item>
+        <item>千万个思念，在空气中凝固。扬起风吹向你，带着我的祝福，寂寞我不在乎，你快乐我就满足，想你是我的幸福！国庆佳节，盼望与你相聚！</item>
+        <item>长假旅游敬请注意，出门在外安全第一，莫要掉队不贪便宜，危险地带切莫好奇，文明出行爱护古迹，预防甲流注意休息，多做准备旅途得意。国庆快乐。</item>
+        <item>国庆将至，普天同庆。一庆祖国富强，二庆国泰民安，三庆社会和谐，四庆科技发达，五庆神七奔月，六庆奥运圆满，七庆朋友深情，八庆联系方便，九庆双喜的祝福是美妙的，的日子是美好的。在这美好的日子里，我送你美妙的祝福：国庆快乐，快乐，天天快乐！</item>
+        <item>有一种关心不请自来；有一种默契无可取代；有一种思念因你存在；有一种孤单叫做等待；有一种沉默不是遗忘；有一种朋友永远对你关怀！祝国庆快乐！</item>
+        <item>秋风乍凉,秋思绵长,轻语问声,近日怎样?是否劳累?是否很忙?换季之时,注意健康;多喝开水,及时更装;早晚温差,小心着凉;身心愉悦,国庆快乐。</item>
+        <item>国庆黄金周！超值豪华游，全程拖拉机接送，爬大山游北江，挖芋头吃蕃薯摘鸡屎果！全程只需十元入五星牛栏（酒店）！赶紧报名吧！</item>
+        <item>国庆到了,这祝福吧也得用国产的,俺盼你八天长假里,要贼贼拉拉的快乐,打海南运来点海风吹得你生活惬意,从漠河给你运点冰雪,冰得你心灵纯净。</item>
+        <item>国庆祝福，最新出炉；绿色无毒，品质保证。接收者，健康平安，万事如意；保存者，事业有成，鸿图大展；转发者，财源滚滚，心想事成；删除者，同样节日快乐。</item>
+        <item>今年国庆改送礼，送礼就在米聊里，礼物不能够抛弃，只能相互广传递，祝你国庆梦甜蜜，长假每天事如意，美好快乐都归你。</item>
+        <item>家人是永远的归宿，朋友是最宝贵的财富。爱人是一生的礼物，知足是最简单的幸福。国庆送上我的祝愿，愿你快乐永驻！</item>
+        <item>转眼国庆，没有华丽的词藻，不抄袭别人的思，只送上我真诚的祝福和简单的问好：神啊，希望你保佑这看米聊的人平安到老，有我祝福的日子再无烦恼。</item>
+        <item>旅客朋友们，欢迎乘坐Z国庆号列车。本次列车是开往幸福之门，准时到站时间是此刻，列车行驶历程为终生。欢迎您的乘坐，希望您能旅途愉快，谢谢。</item>
+        <item>一颗心愿，一份真情，祝你生日快乐！祝我美丽的，乐观的，热情的，健康自信的，充满活力的大朋友---妈妈，生生日快乐！如果我有一百万我将送你。</item>
+        <item>让米聊带上问候乘着翅膀，在无限的扩大想像空间，将关怀友谊化作音符飞扬，让你享受另一番心情的温馨，给你献上朋友真诚的祝福：国庆快乐！</item>
+        <item>通知:各位同志，为丰富国庆佳节业余文化娱乐生活，公司特安排派发免费电影票两张，数量有限，请各位带身份证件到当地电影院售票处，领取方式：抢。谢谢。</item>
+        <item>相遇相知随后是彼此相爱呵，这如诗的梦的初恋，给我们带来多少幸福！我最爱的人，国庆快乐。</item>
+        <item>风：带来轻盈，水：带来温柔，雾：带来朦胧，海：带来宽容，月：带来温馨，日：带来热情，我：带来真诚的祝福，祝国庆快乐！</item>
+        <item>山在欢，水在笑，二十七八没人要。国庆长假下决心，长城海岛跑一圈，歌厅舞厅泡一泡。如果还是没人要，回去上班挣钞票。</item>
+        <item>活着真累，上班没味，晋升排队，说好吃饭，却被灌醉，情人至今没方位；晨不愿醒，晚不想睡，这些我都无所谓！最不能忍受的是祝你国庆节日快乐。</item>
+        <item>生命的真谛，春来不妖，秋到不凋；情义的真谛，贵时不亲，贫时不疏；快乐的真谛，顺时不狂，逆时不伤；祝福的真谛，平时常想，节日不忘：国庆快乐！</item>
+        <item>国庆旅游有必要，气候多变难预料，带好药物防感冒，聚众不去凑热闹，同行相互多关照，贵重物品保管好，愉快国庆能担保。</item>
+        <item>我要驾驶一艘像泰坦尼克号那么大的--脚盆飘洋过海，送祝福；开着一辆像奔驰那么豪华的--手扶拖拉机，来到你面前，对你说：提前祝你国庆快乐！</item>
+        <item>秋天来了，国庆到了，旅游爽了，工作拼了，行李装了，人心散了，手机关了也就剩下懒猪看得到米聊了。</item>
+        <item>星星落下要小时，地球自转一次要天，爱一个人要一辈子，但一句贴心的话只需一秒：好好照顾自己！ 神州大地繁花似锦，祖国长空乐曲如潮。在这美好的日子，祝你国庆快乐。</item>
+        <item>我穷得叮当响了，可是六十年国庆我还是要送你六毛钱：愿你十分快乐十分幸福十分美满十分健康十分平安，最后一毛钱——你让我十分想念！</item>
+        <item>有些事不会因时光流逝而无踪，有些人不会因不常见面而忘记，有些话不会因说得太多而省略，国庆到来之际，提前祝你平安快乐幸福如意。</item>
+        <item>五星红旗迎风飘扬，问候声音多么嘹亮。祝福我那亲爱的朋友，从今拥有幸福健康。越过烦恼高山，走进快乐平原，跨上成功的巅峰。国庆快乐！</item>
+        <item>国庆到了，想送你箱黄金珠宝，怕你会犯心脏病；想送你位绝色美女，怕她使你得肾虚；想送你个总裁做做，又怕把你累坏了；所以只好送条米聊信息，免得让你受累。</item>
+        <item>又是一年落叶黄,一层秋雨一层凉.国庆来临百花香,一条信息带六香:一香送你摇钱树,二香送你贵人扶,三香送你工作好,四香送你没烦恼,五香送你钱满袋。</item>
+        <item>国庆到，欢庆喜迎四方客；婚庆开，幸福传送千万家。愿天下有情人长久相伴，喜笑颜开；儿成龙，女成凤,欢欢喜喜到天洞。</item>
+        <item>国庆孕育我的问候，秋风捎走我的祝福，让这缠绵的米聊，敲响你们幸福的钟声。愿你俩永浴爱河，白头偕老！</item>
+        <item>国庆打算怎么过？告诉你，不管怎样，不准无聊，不准郁闷；必须想我，必须开心！好好表现，这条米聊信息就送给你了，祝节日快乐！</item>
+        <item>带着工作的紧张，投入国庆欢腾的海洋，让休息洗去你的迷茫，让你愈发坚强；上班后你更加的强，努力赢得自己的梦想。</item>
+        <item>国庆正值天气爽，要是出游宜淡妆；多喝净水润肺肠，眼睛嘴巴多保养；感冒药品带身旁，身体排在第一样；祝国庆快乐吉祥！</item>
+        <item>国庆在家休息欢，构建饮食几防线；水果蔬菜一防线，宜人爽口营养全；谷物肉类二防线，补充能量如充电；祝长假快乐每天。</item>
+        <item>国庆休息慰劳嘴，猪牛羊等四条腿，多吃会让人后悔；鸡鸭鹅等两条腿，少吃慢品有滋味；香菇只有一条腿，秋日多吃最是美。</item>
+        <item>国庆长假要出外，各种事项先安排；日常用品自己带，注意身体别累坏；行李过多麻烦来，轻装上阵最是帅；祝你国庆节愉快！</item>
+        <item>国庆出行是大事，行程安排要周密；日常药品随身带，危险地带莫好奇；文明旅游爱古迹，注意卫生与身体；祝旅途一帆风顺！</item>
+        <item>国庆出游请注意，出门安全是第一；最好多人在一起，入乡要随当地习；不可贪图小便宜，事前准备自得意；祝国庆出游顺风！</item>
+        <item>思念一缕缕，牵挂在心里，山川能阻隔天高地远，却阻隔不住深深思念。国庆要到了，吃好，玩好，休息好，祝朋友们国庆快乐！</item>
+        <item>度过欢腾的国庆，再把吉重阳来欢迎，让风吹动秋水盈盈，我把思念挂上真情，用祝福来悉心经营，重阳节，祝福你永远好心情！</item>
+        <item>国庆长假，旅游在外，品尝当地名菜，无疑是一“饮食文化”的享受，但一定要注意饮食饮水卫生，注意卫生与健康，切忌暴饮暴食，谨防病从“口”入。</item>
+        <item>金秋十月风光好，国庆旅游消烦恼。游山玩水虽热闹，保证安全更重要。一路福星把你照，祝你平安开心笑。国庆快乐！</item>
+        <item>国庆赴宴席，朋友有交待：少喝酒，多吃菜，够不着，站起来，长伸手，人不怪。祝你节日更精彩，愿你身体多康泰。</item>
+        <item>嘘！别说话！你猜今天什么日子，猜？不猜？对了！就是普天同庆哦！国庆节了！瞅着米聊发什么愣呢？国庆我请客吃饭，你出钱，赶紧的出来吃吃吧！</item>
+    </string-array>
+    <string-array name="guanggun">
+        <item>唔唔，是个好办法——那你来我这里吧，我娶你好了。哼，我才不能吃亏上当呢，我去找你？你再看不上我，把我扔在人生地不熟的地方，我哭都没地方哭去！我不傻。</item>
+        <item>光棍节的心愿：希望明天与你成一双！咱是光棍没关系，过去生活不回忆，光棍节日不送礼，只托手机传信息，彼此祝福不忘记，我的祝福陪伴你，愿你光棍节开心又甜蜜！</item>
+        <item>如果说烧一年的香可以与你相遇，烧三年的香可以与你相识，烧十年的香可以与你相惜，为了我下辈子的幸福，我愿意改信基督教！</item>
+        <item>你知道吗？没有你的短信时我想过死，我曾经用面条上吊，用豆腐敲头，用可乐服毒，用降落伞跳楼，用筷子割脉，昨天我鼓起勇气摸了电门，可惜停电了，唉，都没成功！你看我多想你。</item>
+        <item>光棍节的晚餐——开吃：四根油条就是“11·11”的四个“1”，包子就代表中间的那个点。这是光棍们的宣言，也成为光棍节的吉祥物。</item>
+        <item>光棍节来了，单身的我无限苦闷，这么多年我一直忍着没有对你说，今天我鼓足勇气，一定要告诉你，其实我一直喜欢你…旁边的那位！光棍节快乐！</item>
+        <item>光棍好，光棍妙，光棍的生活呱呱叫；没有吵，没有闹，光棍的日子真逍遥；自己欢，自己笑，光棍的世界真美妙。光棍节日又来到，祝你幸福甜蜜乐陶陶！</item>
+        <item>晚上11点11分前，整理出一百一十一条单身的理由和好处，然后念给还在为情所困的朋友听，细数已婚人士的悲惨生活，激发他的单身“荷尔蒙”。 让他就此下了做单身的决心。</item>
+        <item>十一月的肖邦，十一月的光棍，十一月的秋风有点美丽冻人，不能不吃，不能不喝，不能是光棍就拿命玩，养养精神气，发发精气神，做一个对社会有用的人。</item>
+        <item>有人说11月11日是灰色的，因为它没有弯见不到彩虹。神说11月11日是金色的，因为有两个长着翅膀的天使在为遇见那一天祷告。</item>
+        <item>蚂蚁蝴蝶都恋爱了，树上鸟儿也成双了，牛郎织女也相会了，光棍也该摘摘帽了。还在等什么，朋友？光棍节快乐！</item>
+    </string-array>
+    <string-array name="shengdan">
+        <item>将我满满的思念，用祝愿包装，用爱心发酵，送上圣诞老人的雪橇，让祝福铺天盖地而来，祝你圣诞快乐！圣诞之后也天天快乐！</item>
+        <item>圣诞节日到，狂欢一整宵，等待钟声响，等待烟火放，站在广场前，记得多穿袄，欢喜的日子，预防感冒，记得吃火鸡，别忘看短信，圣诞快乐！</item>
+        <item>圣诞节到了，我为你精心准备了一件礼物，当你揭去烦恼的纸包，打开幸福的盒子，就会看到我用真心写下的祝福：亲爱的，圣诞节快乐！</item>
+        <item>圣诞节，送你一棵圣诞树，圣诞树上结幸福，幸福里面含快乐，送你一张圣诞卡，圣诞卡里写祝福，祝福里面是问候，送你一条短信息，信息里面藏心愿，心愿就只一句话‘愿你圣诞节快乐’。</item>
+        <item>圣诞节圣诞老人送礼物，放一双袜子在床头，收到一份礼物，放两双袜子在床头，收到双份礼物，放好多双袜子的，不好意思，此次派送礼品卖袜子的不得参与。愿你圣诞节快乐。</item>
+        <item>奉天承运，“圣”旨昭曰：欣逢“圣”诞之期，赐君灵丹“圣”药，可养“圣”颜，望奉此“圣”谕，谨记“圣”训，保重“圣”体，“圣”诞快乐齐天。</item>
+        <item>圣诞的钟声即将响起，落叶飞舞着，温馨洋溢着，真情荡漾着，祝福伴随着，多少个不眠之夜都不及今天的平安夜来 得幸福而快乐，温暖着这个不一样的夜晚。</item>
+        <item>每个人身边都走过很多很多的人，或精彩、或平淡、或擦肩而过不留一点痕迹，或刻骨铭心永志难忘，或众里寻她千 回百转，或柳暗花明灯火阑珊。我只想告诉你，你是我最放不下的那一个。祝你圣诞快乐！</item>
+        <item>摇动所有的风铃，不为吹拂，只为触摸你的指尖；放飞所有的心愿，不为思念，只为贴着你的温暖；祈祷永恒的幸福 ，不为来世，只为今生与你相伴。祝你圣诞快乐！</item>
+        <item>今日圣诞，装满一车幸福让平安开道，抛弃一切烦恼让快乐与你拥抱，存储所有温暖将寒冷赶跑，释放一生真情让幸 福永远对你微笑！</item>
+        <item>愿作夜空中最亮的一颗星星，夜夜陪伴在你身旁，当你感觉疲惫仰望星空时，空中点点星光是我洒向你的无尽祝福， 祝你圣诞快乐，幸福平安！</item>
+        <item>晚上笑一笑，睡个美满觉，早晨笑一笑，全天生活有情调，工作之余笑一笑，满堂欢喜又热闹，烦恼之时笑一笑，一 切烦恼全忘掉，祝圣诞节快乐，笑口常开。</item>
+        <item>奉上一颗祝福的心，在这特别的日子里，愿幸福、如意、快乐、鲜花，一切美好的祝愿与你同在。圣诞快乐！</item>
+        <item>圣诞传说：信息发一发，钞票任你花；信息看一看，幸福围你转；信息读一读，快乐你做主；信息翻一翻，吉祥连成串，信息转一转，好运永做伴。祝你快乐圣诞！</item>
+        <item>岁月带走青春，但带走不了我的祝福；空间带走距离，但带走不了我的思念。我们的友谊依然知心，圣诞节将至，送给我最知心的朋友，我最真诚的祝愿。圣诞快乐。</item>
+        <item>温馨的夜，温馨的酒，温馨的圣诞使人留。甜蜜的风，甜蜜的雪，甜蜜的短信忘记愁。祝福的树，祝福的礼，祝福的短信送给你。圣诞快乐。</item>
+        <item>圣诞来临不送卡，纸张省下一大把；圣诞过节不放花，脸上照样笑哈哈；信息祝福友谊传，节能减排又低碳；响应号召又省钱，愿你快乐过圣诞。</item>
+        <item>圣诞节到了，送你一棵圣诞树：健康的体魄是树根，幸福的家庭是树干，顺心的事业是树枝，美满的爱情是树叶，辉煌的成就是树冠，惬意的生活是树荫！</item>
+        <item>你始终要用一千个理由来坚持相信我，却只需一个借口就可以放弃；而我用一千个理由来坚持喜欢你，却只因为一个原由我相信你。祝你圣诞快乐！</item>
+        <item>我想变成一棵树，一棵只为你存在的圣诞树，顶上最大最亮的那颗星是我的真心，下面挂的是我的爱心，缠绕在丝带里的是我的痴心。圣诞快乐！</item>
+        <item>酌一口美酒，心放宽；听一段音乐，心悠闲；赏一番雪景，心坦然；读一封短信，心温暖；传一传祝愿，心里甜。祝君快乐在圣诞，开心快乐永不变。</item>
+        <item>紧急通知：今天务必准备好一百条长袜放于床前，我拜托圣诞老人将送给你百事可乐百瓶，百年之约百份，百年好事百件，愿你百媚千娇展笑颜，欢欢乐乐度圣诞。</item>
+        <item>没有雪花，依然浪漫。即使寒冬，倍感温暖。烛光摇曳，华灯璀灿。炉火熊熊，张灯结彩。圣诞树下，礼物如山。钟声敲响，吉祥浪漫。祝福声声，幸福永远！</item>
+    </string-array>
+    <string-array name="yuandan">
+        <item>圣诞狂欢，元旦小憩。挥手过往，尘埃落定。迎接新年，快乐无敌。放松心情，能量积蓄。共盼美好，祝福真切。闪亮人生，精彩同行。祝节后愉快！</item>
+        <item>山河能遮挡视线，却隔不开深深思念；经纬能拉开距离，却挡不住真挚情感；岁月能流逝华年，却扯不断友情的线。迎新年，朋友在我心间，捎去祝福片片！</item>
+        <item>谱不出雅韵，吟不出诗句，抄不来思念，借不了神笔，转不动经轮，写不下美文，但灿烂的新年就要来到，真诚的祝福依然要送给你：提前祝元旦快乐！</item>
+        <item>路漫漫，风淡淡，天蓝蓝，思绵绵。烟花灿，过元旦，快乐伴，赛神仙。与好运，常相见，跟平安，永连线。祝愿你，福无限，日子美，生活甜。</item>
+        <item>还记得《天书奇谭》的故事吗？虽然元公被天庭处罚，但旦生学会了天书后处处为百姓造福。为了纪念这两位神仙，人们把1月1定为元旦节。元旦快乐！</item>
+        <item>当我把神灯擦了三下，神仙说我可以许两个愿望。我说我希望看短信的这个人元旦快乐，而且越来越漂亮。神仙说，我只能满足你第一个愿望。</item>
+        <item>标点符号贺元旦：冒号敬告你，新年驾临；逗号恭贺你，年年有余；句号祝福你，团团圆圆；感叹号感动你：懂得感恩；引号包含你，福至心灵；括号锁定你，集聚财气；破折号提示你，势如破竹；省略号浓缩千言万语，祝你元旦快乐，新年大吉！</item>
+        <item>2014要来到送你一块甜年糕，一刀切去烦和恼；二刀切下乐逍遥；三刀苦闷都切掉；四刀悲伤全部消；五刀新年多欢笑；元旦祝福不能少短信到手视珍宝。</item>
+        <item>“元旦”宝贝已下架，拥有元旦独特的幸福布料，愉快花色，团圆款式的商品正在热销，亲只需用时光支付宝，消费您所有烦恼便可购得，温馨免邮，请笑纳。</item>
+        <item>奔波一年又一年，道句辛苦了。携手一天又一天，说声感谢了。走过一程又一程，终点变起点。人生一站又一站，日子苦也甜。新的一年，祝你幸福平安！</item>
+        <item>无论是圣诞还是元旦，愿你旦夕快乐；无论是今朝还是明天，愿你幸福天天；无论是相见还是怀念，愿你祝福不断；无论是国节还是洋节，愿你笑容甜甜；幸福过圣诞，快乐迎元旦。</item>
+        <item>节日临祝福送，信息传要讲究，发型讲究新潮，穿衣讲究时尚，生活讲究品味，短信讲究真心，元旦即将来临，友谊弥足珍贵，祝君笑口常开，享受美妙滋味。</item>
+        <item>想拥着你，可距离不允许；想陪着你，但时间不允许；想听着你，可工作不允许；想捧着你，可身体不允许；唯有想念着你在心底，祝福着你在信息，祝元旦快乐！</item>
+        <item>山河能遮挡视线，却隔不开深深思念；经纬能拉开距离，却挡不住真挚情感；岁月能流逝华年，却扯不断友情的线。迎新年，朋友在我心间，捎去祝福片片！</item>
+        <item>天气预报：元旦前后将出现强对流天气，大面积下钞票，局部有金条，快乐火山暴发，引发友情泥石流，H2N2欢乐台风登陆，预计极端天气将持续一周。</item>
+        <item>元旦快到了，我准备给你拍张头部照片，你椭圆的脑袋像鸡蛋，你微笑的脸蛋甜蜜灿烂。我把照片当做送给你的新年礼物，寓意非常明显：快乐圆蛋（元旦）！</item>
+        <item>元旦到，问个好，愿你开心困难少；青春驻，不变老，全家天天呵呵笑；儿女孝，幸福绕，忧愁全部上云霄；健康在，收入高，幸福生活乐逍遥。</item>
+        <item>平常日子平常心，淡淡相思传真情，你我友情在日里，短信传递真情意。送上问候和祝福，不问元旦和新年，此时此刻此真意，愿你开心永幸福！</item>
+        <item>元旦是美好的总结，就像句号；元旦是未来的开启，就像冒号；元旦是惊喜的祝福，就像感叹号；元旦是幸福的未知，就像省略号。愿你新年写满快乐的标点！</item>
+        <item>俺把所有的祝福“祝”进了这只可爱的中国元旦里，俺将这只中国元旦蛋蛋送给你，请你美滋滋一番。祝福你元旦快乐新年快乐！（*^0^*）</item>
+        <item>新的一年又来到，新的祝福也送到，祝福你每天都能象小白兔一样，开开心心、蹦蹦跳跳，搂着大大的“幸福”胡萝卜，一点点品尝，一点点咀嚼。元旦快乐！</item>
+        <item>等我有了钱，点着美元给你取暖，用XO给你浇花园，派嫦娥给你当丫环，约奥巴马摇游船，派拉丹陪你休闲，可现在只能花一角钱，祝你快乐元旦！</item>
+        <item>新年来临送祝福，家中进棵摇钱树，树上开朵如意花，花落结个开心果，爱情鸟儿常相伴，幸福鸟儿团团转，全部停驻你家园，不离不弃到永远。祝元旦快乐！</item>
+        <item>溪水不知道为什么总要流向大海，蝴蝶不知道为什么总要在空中飞舞，我不知道为什么短信总要发送给你。可能是元旦到了的缘故吧，祝你元旦节快乐。</item>
+        <item>等我有钱了，手机买两部，一部听音乐一部照相；鞋买两双，一样一只穿脚上；短信发两条，一条祝你元旦快乐，一条祝你转发的朋友元旦快乐，没办法，谁让咱是有钱人。</item>
+        <item>痛苦最好是别人的，快乐才是自己的；麻烦将是暂时的，朋友总是永恒的；爱情是用心经营的，世界上没有什么大不了的。元旦快乐！</item>
+        <item>有一抹色彩叫做阳光，有一种味道叫做温馨，有一款装饰叫做心意，有一份祝福叫做平安，朋友，元旦快乐，健康幸福。</item>
+        <item>用真心起笔，用关怀和呵护描绘过程，用风雨同舟收笔，世上最美的圆就出现了，因为360°全方位的祝福，是独一无二的啊！元（圆）旦快乐啊！</item>
+        <item>一份和谐，平平安安，一份安然，快快乐乐，一份深情，吉祥如意，一份祝福，全家幸福，元旦，圆满结束一年，开始新的一年，一起努力，再接再厉。</item>
+        <item>元旦要到了，趁着还没有放假，欢庆晚会还没有开始，祝福短信还没有爆发，你的手机还有空间，我的手机还没欠费，发消息还没涨价，早早预祝你元旦快乐！</item>
+    </string-array>
+    <string-array name="micloud_tips">
+        <item>不会做程序的产品经理，不是好设计师！</item>
+        <item>从前有个太监……</item>
+        <item>一个指南针在路上走，走着走着突然说，我怎么找不着北啊？</item>
+        <item>从前有只刺猬划冲汽船，划着划着就漏气了。</item>
+        <item>一个馒头，吃了个肉丸就变成了包子。</item>
+        <item>一个电话在路上走，走着走着他就挂了。</item>
+        <item>世界是我们的，也是儿子们的，但最终是那帮孙子们的。</item>
+        <item>众里寻她千百度，蓦然回首，那人依旧对我不屑一顾。</item>
+        <item>人生没有彩排，每天都是直播，不仅收视率低，而且工资不高。</item>
+        <item>西游记告诉我们：凡是有后台的妖怪都被接走了，凡是没后台的都被一棒子打死了。</item>
     </string-array>
 </resources>
