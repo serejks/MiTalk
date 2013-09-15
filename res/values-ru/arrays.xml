@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string-array name="smiley_normal_texts">
         <item>[happy]</item>
         <item>[smile]</item>
@@ -676,7 +676,7 @@
         <item>浪骚也需要资本</item>
     </string-array>
     <string-array name="sixin_setting_choices">
-        <item>Выберите для удаления</item>
+        <item>Выберать для удаления</item>
         <item>Удалить все</item>
         <item>Настройки</item>
     </string-array>
@@ -861,8 +861,8 @@
         <item>Копировать</item>
     </string-array>
     <string-array name="add_photo_list">
-        <item>拍照</item>
-        <item>本地上传</item>
+        <item>Фото</item>
+        <item>Локальные</item>
     </string-array>
     <string-array name="zhengren">
         <item>未来两天有寒流,请帅气的男生漂亮的女生添衣保暖,丑的就不用了,冻死一个少一个,以美化城市。此短信已通过技术处理,仅帅哥美女能收到…噢!刚才有一个姓胡的打电话来问你的号码.我没有告诉他.最后他哭着说他是胡锦涛.并让我转告你:党中央祝你身体健康!嘿嘿,如果接到此短信请发给你关心的人提醒他们注意保暖!今年的冬天会很冷^_^嘿嘿…</item>
