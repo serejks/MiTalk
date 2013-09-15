@@ -2192,7 +2192,7 @@ Tap arrow to switch between video and audio message mode."</string>
     <string name="sina_secretary">Post new Weibo</string>
     <string name="verification_verifing">Проверка…</string>
     <string name="sixin_send_hint">сообщение</string>
-    <string name="login_logined_account">You may use Xiaomi account %1$s to log into[%2$s]</string>
+    <string name="login_logined_account">Вы можете использовать аккаунт Xiaomi %1$s для входа [%2$s]</string>
     <string name="notification_wall_reply_with_cnt">%1$s…(%2$d) прокомментировали запись на стене пользователя \"%3$s\".</string>
     <string name="pref_privacy_unsearchable_desc">Allow to find me only by MiID.</string>
     <string name="settings_say_hello_swicth">Приветствие</string>
@@ -2260,7 +2260,7 @@ Tap arrow to switch between video and audio message mode."</string>
     <string name="miworld_auth">Авторизация…</string>
     <string name="recommend_assistent_show_more_user">More recommendations</string>
     <string name="wall_forward_template">Original post: %s</string>
-    <string name="big_group_member_list_creator">Creator</string>
+    <string name="big_group_member_list_creator">Создатель</string>
     <string name="fith_prize">5 подарок</string>
     <string name="share_to_wall">Отправить на стену</string>
     <string name="mutual_friend_recomm_describ">"Would you like us to suggest you with people who have mutual friends with you? 
@@ -2272,8 +2272,8 @@ Tap arrow to switch between video and audio message mode."</string>
     <string name="muc_waiting_for_verified">Waiting for email to be verified</string>
     <string name="phone_callee_drop_msg">Пользователь завершил вызов</string>
     <string name="SINA">Sina Weibo</string>
-    <string name="click_to_play">Click to play</string>
-    <string name="video_callin_unanswer">Missing video call</string>
+    <string name="click_to_play">Нажмите для воспроизведения</string>
+    <string name="video_callin_unanswer">Пропущеный видео вызов</string>
     <string name="batch_sms_delete_tips">Удалить выбранный чат?</string>
     <string name="is_talking">Talking…</string>
     <string name="mili_lottery_my_award_title">Мой выигрыш</string>
@@ -2281,11 +2281,11 @@ Tap arrow to switch between video and audio message mode."</string>
     <string name="notification_center_detail_top_tab_friend_request">Запрос</string>
     <string name="user_profile_already_send">Вы отправили пользователю запрос на установку фото профиля</string>
     <string name="spread_search_contact">Поиск контактов</string>
-    <string name="play">Play</string>
+    <string name="play">Воспроизведение</string>
     <string name="login_pls_select_gender">Select gender</string>
     <string name="login_error_incorrect_system_time">Ошибка настройки</string>
     <string name="video_from_low_cpu_hint">This user is using a low quality phone, it will effect facetime quality.</string>
-    <string name="create_group_name_et_hint_0">Enter a group name</string>
+    <string name="create_group_name_et_hint_0">Введите название группы</string>
     <string name="clearing_avatar_cache">Обработка…</string>
     <string name="muc_invite_email_body_tips">Я присоединился к [%s], присоединяйтесь тоже!</string>
     <string name="send_message_to_groups">Отправить группам</string>
@@ -2297,7 +2297,7 @@ Tap arrow to switch between video and audio message mode."</string>
     <string name="group_list_group">Группы</string>
     <string name="pref_no_msg">Тихий режим</string>
     <string name="add_shortcut_dialog_msg">Add %1$s to launcher</string>
-    <string name="added_by_me_contacts">invited %d</string>
+    <string name="added_by_me_contacts">приглашено %d</string>
     <string name="spread_invite_message_templete">%s通过米聊给您留言：安装注册米聊，和我一起对讲分享快乐！</string>
     <string name="accept_multiple_friend_succeeded">"You've added %d friend request(s)."</string>
     <string name="multi_graph_input_wall_content">Введите текст</string>
@@ -2366,7 +2366,7 @@ Tap arrow to switch between video and audio message mode."</string>
     <string name="voip_failed_connect_media_server">Failed to connect to the server, please try again later.</string>
     <string name="group_setting_group_name_cannot_empty">"It's required to name your group."</string>
     <string name="welcome_userage">Информация MiTalk</string>
-    <string name="mi_world_new_msg">Message from MiWorld</string>
+    <string name="mi_world_new_msg">Сообщение из MiWorld</string>
     <string name="muc_remove_admin_confirm">Снять пользователя \"%s\" с должности админа?</string>
     <string name="report_others_pro">Опишите проблему</string>
     <string name="sns_invite_sina_weibo_contacts">Invite Sina Weibo Friends</string>
@@ -2462,7 +2462,7 @@ Tap arrow to switch between video and audio message mode."</string>
     <string name="restore_buddies_positive">ОК</string>
     <string name="people_you_may_know">you may know</string>
     <string name="my_address_book_maybe_interested">Might be interested</string>
-    <string name="try_again">Try again</string>
+    <string name="try_again">Повтор</string>
     <string name="send_failed">Failed to send, please try again.</string>
     <string name="muc_waiting_email_resend">Resend</string>
     <string name="get_mili_basic_methods_title">获得米点基本方式</string>
@@ -2497,13 +2497,13 @@ Tap arrow to switch between video and audio message mode."</string>
     <string name="send_user_card_bubble_title">Контакты</string>
     <string name="group_setting_set_background">Фон группы</string>
     <string name="enter_network_settings">Change network connection</string>
-    <string name="muc_invite">Invite</string>
+    <string name="muc_invite">Пригласить</string>
     <string name="optimize_avatar_folder">Organize profile pictures</string>
     <string name="relational_friend_number_header_sina">Sina friends on MiTalk</string>
     <string name="video_nowifi_hint">Your video quality might get effected by wireless network provided by your data plan carrier.</string>
     <string name="nearby_already_friend">Друг MiTalk</string>
     <string name="convert_wifi_to_sim_sms_failed">This message has been sent successfully.</string>
-    <string name="sns_add_friends">Invite friends</string>
+    <string name="sns_add_friends">Пригласить друзей</string>
     <string name="upload_real_avatar">Upload my picture</string>
     <string name="mili_lottery_err_userawardnotfound">Запись не существует</string>
     <string name="create_muc_group_type_public">Public</string>
@@ -2606,7 +2606,7 @@ Tap arrow to switch between video and audio message mode."</string>
     <string name="sixin_conversation_open">Прочитано</string>
     <string name="sixin_sender_limit">Sorry, you may only send message to %s people today.</string>
     <string name="compose_message_menu_change_bkg">Сменить фон</string>
-    <string name="you_may_know">You might know (%d)</string>
+    <string name="you_may_know">Вы можете знать (%d)</string>
     <string name="recipient_title_new_sixin">Приветствие</string>
     <string name="blacklist_management">Черный список</string>
     <string name="license_link">Лицензия</string>
@@ -2804,8 +2804,8 @@ Please remember that you can only log in and restore password AFTER you confirm 
     <string name="friend_list_group">Чаты групп</string>
     <string name="group_member_set_admin">Повысить</string>
     <string name="openapp_local_downloading">Starting…</string>
-    <string name="wall_click_list_more_items">Load more…</string>
-    <string name="upload_address_book_progress">Upload contacts %1$d/%2$d</string>
+    <string name="wall_click_list_more_items">Загрузить еще…</string>
+    <string name="upload_address_book_progress">Загрузка контактов %1$d/%2$d</string>
     <string name="lbs_mili_info_first">Вы можете посещать каждый день</string>
     <string name="video_local_low_cpu_hint">You are using a low quality phone. This will effect facetime quality, are you sure to try this type of call?</string>
     <string name="resend">Повтор</string>
@@ -2851,8 +2851,8 @@ Please remember that you can only log in and restore password AFTER you confirm 
     <string name="x_miliao_friends_from_renren">Found %1$d friends from renren. %2$d friends are not using MiTalk, Invite them to join you!</string>
     <string name="remind_status_is_out_of_date">откл</string>
     <string name="turned_to_speaker">Динамик включен</string>
-    <string name="app_unziping">Finishing…</string>
-    <string name="who_are_you">Who is this?</string>
+    <string name="app_unziping">Окончание…</string>
+    <string name="who_are_you">Кто это?</string>
     <string name="mili_lottery_date_time">请在%1$s到%2$s每天%3$s-%4$s之间进行抽奖！</string>
     <string name="sixin_conversation_delete">Удалить</string>
     <string name="remind_status_repeat">Повтор</string>
@@ -3145,7 +3145,7 @@ Now, sit back and enjoy a life having MiTalk!"</string>
     <string name="shake_to_all_friends">Запросы были отправлены всем</string>
     <string name="sixin_notifi_content">Получены новые сообщения</string>
     <string name="wall_block_warning">Если вы заблокируете контакт, вы не сможете просматривать его стену.</string>
-    <string name="poking_remind_upgrade_msg">【ваш друг ткнул вас, толкните его в ответ!】</string>
+    <string name="poking_remind_upgrade_msg">【ваш друг толкнул вас, толкните его в ответ!】</string>
     <string name="ppl_warn_switch">Не спрашивать</string>
     <string name="report_miworld">MiWorld</string>
     <string name="about_www">www.mitalk.com</string>
