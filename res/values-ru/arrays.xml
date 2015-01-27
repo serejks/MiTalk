@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="album_setting_choices">
+        <item>Выбрать</item>
+        <item>Последние 21 фото</item>
+        <item>Отключено</item>
+     </string-array>
+     <string-array name="archive_remind_frequency">
+        <item>Сейчас</item>
+        <item>Каждые 10 минут</item>
+        <item>Каждый час</item>
+        <item>Каждый день</item>
+        <item>Не напоминать</item>
+     </string-array>
+     <string-array name="bbs_more">
+        <item>Увеличить текст</item>
+        <item>Follow thread starter</item>
+        <item>Копировать ссылку</item>
+        <item>Full article</item>
+     </string-array>
+     <string-array name="channel_edit_menu">
+        <item>Изменить имя</item>
+        <item>Удалить канал</item>
+     </string-array>
+     <string-array name="chose_chunjie">
+        <item>2-й год</item>
+        <item>3-й год</item>
+        <item>4-й год</item>
+     </string-array>
+     <string-array name="chose_festival">
+        <item>Китайский Новый год</item>
+        <item>День святого Валентина</item>
+        <item>Фестиваль Фонарей</item>
+     </string-array>
+     <string-array name="chose_group_kind_content">
+        <item>Эта группа рекомендована для ваших коллег.</item>
+        <item>Эта группа рекомендована для одноклассников.</item>
+        <item>Эта группа рекомендована для людей с одинаковыми интересами.</item>
+        <item>Мы не рекомендуем эту группу всем.</item>
+     </string-array>
+     <string-array name="chose_group_kind_title">
+        <item>Работа</item>
+        <item>Школа</item>
+        <item>Публично</item>
+        <item>Приватно</item>
+     </string-array>
+     <string-array name="chose_pic_quality">
+        <item>Высокое</item>
+        <item>Низкое</item>
+     </string-array>
+     <string-array name="chose_valentine">
+        <item>情人节节</item>
+        <item>情人节</item>
+        <item>情人节节</item>
+        <item>情人节节2</item>
+     </string-array>
+     <string-array name="chose_yuanxiao">
+        <item>元宵节</item>
+        <item>元宵节</item>
+        <item>元宵节节节</item>
+        <item>元宵节hah1</item>
+     </string-array>
+     <string-array name="complete_profile_choose_sig">
+        <item>我想和你一起吹吹风</item>
+        <item>想起南方的家乡，那里最近很多雨水</item>
+        <item>我有很多故事，等你来听</item>
+        <item>离开米聊，从此没有人跟我说话</item>
+        <item>想找一个人，面朝大海春暖花开</item>
+        <item>哥我是江南style！</item>
+        <item>有人跟我一起犯二么？</item>
+        <item>如果多一张船票，你会不会跟我一起走？</item>
+        <item>当完成了童年理想，童年却成了理想</item>
+        <item>女子分为两类，一种是毒药，一种是解药</item>
+        <item>如何让你遇见我？在我最美丽的时刻</item>
+        <item>嫁人要嫁灰太狼，做人要做喜洋洋</item>
+        <item>做一个接地气的人，暖一颗过日子的心</item>
+        <item>我在这一直寻找你的足迹</item>
+        <item>你们不能打我，因为我已经很丑了</item>
+        <item>时间匆匆的就像流沙，却想着来日方长吗？</item>
+        <item>人不要脸了，可真舒服</item>
+        <item>阳光洒肩头，仿佛自由生</item>
+        <item>等我们俩遇见，也算是一种解脱吧！</item>
+        <item>浪骚也需要资本</item>
+     </string-array>
+     <string-array name="constellations">
+        <item>Овен</item>
+        <item>Телец</item>
+        <item>Близнецы</item>
+        <item>Рак</item>
+        <item>Лев</item>
+        <item>Дева</item>
+        <item>Весы</item>
+        <item>Скорпион</item>
+        <item>Стрелец</item>
+        <item>Козерог</item>
+        <item>Водолей</item>
+        <item>Рыбы</item>
+     </string-array>
+     <string-array name="contacts_batch">
+        <item>Групповое приглашение</item>
+     </string-array>
+     <string-array name="context_anim_10">
+        <item>吃药</item>
+        <item>放弃治疗</item>
+        <item>药不能停</item>
+     </string-array>
+     <string-array name="context_anim_11">
+        <item>天气不错</item>
+        <item>天气晴朗</item>
+        <item>好天气</item>
+        <item>今天心情不错</item>
+        <item>风和日丽</item>
+        <item>心情大好</item>
+     </string-array>
+     <string-array name="context_anim_12">
+        <item>节日快乐</item>
+        <item>元宵节快乐</item>
+        <item>植树节快乐</item>
+        <item>愚人节快乐</item>
+        <item>端午节快乐</item>
+        <item>中秋快乐</item>
+        <item>中秋节快乐</item>
+     </string-array>
+     <string-array name="context_anim_1">
+        <item>新年快乐</item>
+        <item>春节快乐</item>
+        <item>恭喜发财</item>
+        <item>新春快乐</item>
+        <item>阖家欢乐</item>
+        <item>吉祥如意</item>
+        <item>万事如意</item>
+        <item>心想事成</item>
+        <item>元旦快乐</item>
+        <item>happy new year</item>
+     </string-array>
+     <string-array name="context_anim_2">
+        <item>生日快乐</item>
+        <item>生快</item>
+        <item>happy birthday</item>
+     </string-array>
+     <string-array name="context_anim_3">
+        <item>一生一世</item>
+        <item>爱你</item>
+        <item>1314</item>
+        <item>love you</item>
+     </string-array>
+     <string-array name="context_anim_4">
+        <item>情人节快乐</item>
+        <item>七夕快乐</item>
+        <item>妇女节快乐</item>
+        <item>三八妇女节</item>
+        <item>"happy valentine's day"</item>
+     </string-array>
+     <string-array name="context_anim_5">
+        <item>教师节快乐</item>
+        <item>老师辛苦了</item>
+        <item>老师节日快乐</item>
+        <item>重阳节快乐</item>
+        <item>九九重阳节</item>
+     </string-array>
+     <string-array name="context_anim_6">
+        <item>圣诞节</item>
+        <item>merry christmas</item>
+     </string-array>
+     <string-array name="context_anim_7">
+        <item>国庆节</item>
+     </string-array>
+     <string-array name="context_anim_8">
+        <item>祝你平安</item>
+        <item>祈福</item>
+        <item>祈祷</item>
+        <item>祝愿</item>
+     </string-array>
+     <string-array name="context_anim_9">
+        <item>干杯</item>
+        <item>喝个痛快</item>
+        <item>喝酒</item>
+        <item>喝一杯</item>
+     </string-array>
+     <string-array name="copy_to_clipboard">
+        <item>Копировать</item>
+     </string-array>
+     <string-array name="correlation">
+        <item>Школьный товарищ</item>
+        <item>Коллега</item>
+        <item>Бывший сотрудник</item>
+        <item>Друзья из Sina</item>
+        <item>Друзья из Renren</item>
+        <item>Из вашего города</item>
+        <item>Из вашей отрасли</item>
+     </string-array>
+     <string-array name="discovery_filter">
+        <item>Girls nearby</item>
+        <item>Boys nearby</item>
+        <item>Nearby unions</item>
+        <item>Common friends</item>
+        <item>Nearby venues</item>
+     </string-array>
+     <string-array name="dynamic_send_wall">
+        <item>Снять фото</item>
+        <item>Выбрать фото из галереи</item>
+        <item>Текст</item>
+     </string-array>
+     <string-array name="edit_image">
+        <item>Фильтр</item>
+        <item>Удалить</item>
+     </string-array>
+     <string-array name="education">
+        <item>Колледж</item>
+        <item>Бакалавриат</item>
+        <item>Выпускник</item>
+        <item>Врач</item>
+     </string-array>
+     <string-array name="effect_name">
+        <item>Tonal</item>
+        <item>Noir</item>
+        <item>Bright</item>
+        <item>Fresh</item>
+        <item>Film</item>
+        <item>Process</item>
+        <item>Vibrant</item>
+        <item>Transfer</item>
+     </string-array>
+     <string-array name="find_friend_operations">
+        <item>Удалить</item>
+     </string-array>
+     <string-array name="find_group_title_filter">
+        <item>Все</item>
+        <item>Одноклассники</item>
+        <item>Однокурсники</item>
+     </string-array>
+     <string-array name="find_muc_selected">
+        <item>Все</item>
+        <item>Одноклассники</item>
+        <item>Коллеги</item>
+        <item>Интересы</item>
+        <item>Последние</item>
+     </string-array>
+     <string-array name="get_password">
+        <item>Сбросить пароль</item>
+        <item>Сбросить пароль через мобильный телефон</item>
+        <item>Сбросить пароль через Email</item>
+     </string-array>
+     <string-array name="get_password_no_phone">
+        <item>Сбросить пароль</item>
+        <item>Сбросить пароль через Email</item>
+     </string-array>
+     <string-array name="industries">
+        <item>Student</item>
+        <item>IT</item>
+        <item>Industry</item>
+        <item>Medical</item>
+        <item>Business</item>
+        <item>Civil Servant</item>
+        <item>Law</item>
+        <item>Education</item>
+        <item>Art</item>
+        <item>Media</item>
+        <item>Finance</item>
+        <item>Service</item>
+        <item>Freelancer</item>
+        <item>Agriculture</item>
+        <item>Real Estate</item>
+        <item>Transportation</item>
+        <item>Other</item>
+     </string-array>
+     <string-array name="invite">
+        <item>Добавить друзей из Mi Talk</item>
+        <item>Пригласить по SMS</item>
+        <item>Пригласить по Email</item>
+     </string-array>
+     <string-array name="midschool">
+        <item>Средняя школа</item>
+        <item>Высшая школа</item>
+     </string-array>
+     <string-array name="ml_webview_more">
+        <item>Отправить в контакты</item>
+        <item>Share with Union</item>
+        <item>Отправить на стену</item>
+        <item>Открыть в браузере</item>
+        <item>Настройки шрифта</item>
+     </string-array>
+     <string-array name="ml_webview_more_withnamecard">
+        <item>Отправить в контакты</item>
+        <item>Share with Union</item>
+        <item>Отправить на стену</item>
+        <item>Открыть в браузере</item>
+        <item>Открыть в браузере</item>
+        <item>Профиль</item>
+     </string-array>
+     <string-array name="ml_webview_share">
+        <item>Отправить в контакты</item>
+        <item>Share with Union</item>
+        <item>Отправить на стену</item>
+     </string-array>
+     <string-array name="month">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+     </string-array>
+     <string-array name="muc_member_manager">
+        <item>Удалить участника</item>
+        <item>Добавить администратора</item>
+        <item>Убрать администратора</item>
+        <item>Игнорировать участника</item>
+        <item>Не игнорировать участника</item>
+     </string-array>
+     <string-array name="muc_setting_member_icon_choices">
+        <item>Просмотр</item>
+     </string-array>
+     <string-array name="muc_setting_notify_choices">
+        <item>Выключено</item>
+        <item>Всплывающие окна</item>
+        <item>Звук</item>
+        <item>Вибрация</item>
+        <item>Звук и вибрация</item>
+     </string-array>
+     <string-array name="namecard_first_photo_choices">
+        <item>Просмотр</item>
+        <item>Камера</item>
+        <item>Галерея</item>
+        <item>Удалить</item>
+     </string-array>
+     <string-array name="namecard_inform_choices">
+        <item>Личные</item>
+        <item>Афера</item>
+        <item>Другие</item>
+     </string-array>
+     <string-array name="namecard_photo_choices">
+        <item>Просмотр</item>
+        <item>Установить как основную</item>
+        <item>Камера</item>
+        <item>Галерея</item>
+        <item>Удалить</item>
+     </string-array>
+     <string-array name="namecard_remain_one_photo_choices">
+        <item>Просмотр</item>
+        <item>Камера</item>
+        <item>Галерея</item>
+     </string-array>
+     <string-array name="namecard_school_choices">
+        <item>Университет</item>
+        <item>Высшая школа</item>
+     </string-array>
+     <string-array name="namecard_sex_choices">
+        <item>Муж.</item>
+        <item>Жен.</item>
+     </string-array>
+     <string-array name="new_namecard_inform_choices">
+        <item>Домогательство</item>
+        <item>Спам</item>
+        <item>Терроризм</item>
+        <item>Прочее</item>
+     </string-array>
+     <string-array name="notification_center_operation_items">
+        <item>Показать все запросы</item>
+        <item>Очистить список</item>
+     </string-array>
+     <string-array name="pick_image">
+        <item>Камера</item>
+        <item>Галерея</item>
+     </string-array>
+     <string-array name="pickture_choices">
+        <item>Камера</item>
+        <item>Галерея</item>
+     </string-array>
+     <string-array name="picture_quick_choices">
+        <item>Камера</item>
+        <item>Галерея</item>
+        <item>Анимация</item>
+     </string-array>
+     <string-array name="pref_color_name">
+        <item>Системный</item>
+        <item>Синий</item>
+        <item>Красный</item>
+        <item>Желтый</item>
+        <item>Зеленый</item>
+        <item>Голубой</item>
+        <item>Белый</item>
+        <item>Фиолетовый</item>
+     </string-array>
+     <string-array name="pref_locale_choices">
+        <item>en</item>
+        <item>zh_tw</item>
+        <item>zh_hk</item>
+        <item>zh_cn</item>
+        <item>ru</item>
+        <item>default_locale</item>
+     </string-array>
+     <string-array name="pref_locale_name_choices">
+        <item>Английский</item>
+        <item>Китайский (Тайвань)</item>
+        <item>Китайский (Гонконг)</item>
+        <item>Упрощенный китайский</item>
+        <item>Русский</item>
+        <item>Системный</item>
+     </string-array>
+     <string-array name="pref_muc_notification_choices">
+        <item>Не уведомлять</item>
+        <item>Уведомлять</item>
+        <item>1 минута</item>
+        <item>10 минут</item>
+        <item>1 час</item>
+     </string-array>
+     <string-array name="pref_notification_choices">
+        <item>Выключено</item>
+        <item>Всплывающие окна</item>
+        <item>Звук</item>
+        <item>Вибрация</item>
+        <item>Звук и вибрация</item>
+     </string-array>
+     <string-array name="pref_privacy_fri_verify_choices">
+        <item>Без подтверждения</item>
+        <item>Требовать подтверждение</item>
+        <item>Не добавлять меня</item>
+     </string-array>
+     <string-array name="pref_privacy_search_type_name">
+        <item>По MiID/имени/школе/компании</item>
+        <item>Только по MiID</item>
+     </string-array>
+     <string-array name="pref_video_recording_choices">
+        <item>Низкое</item>
+        <item>Среднее</item>
+        <item>Высокое</item>
+     </string-array>
+     <string-array name="property_choices">
+        <item>Компания</item>
+        <item>Школа</item>
+        <item>Интересы</item>
+     </string-array>
+     <string-array name="remind_repeat_mode_week_days">
+        <item>Пн.</item>
+        <item>Вт.</item>
+        <item>Ср.</item>
+        <item>Чт.</item>
+        <item>Пт.</item>
+        <item>Сб.</item>
+        <item>Вс.</item>
+     </string-array>
+     <string-array name="remind_week_days">
+        <item>Вс.</item>
+        <item>Пн.</item>
+        <item>Вт.</item>
+        <item>Ср.</item>
+        <item>Чт.</item>
+        <item>Пт.</item>
+        <item>Сб.</item>
+     </string-array>
+     <string-array name="school_choices">
+        <item>Университет</item>
+        <item>Средняя школа</item>
+        <item>Высшая школа</item>
+     </string-array>
+     <string-array name="select_archive">
+        <item>Добавить друша</item>
+        <item>Add a union</item>
+        <item>Добавить подписку</item>
+     </string-array>
+     <string-array name="send_card_types">
+        <item>Контакты телефона</item>
+        <item>Друзья MiTalk</item>
+        <item>Объединенные</item>
+        <item>Подписки</item>
+     </string-array>
+     <string-array name="send_photo_types">
+        <item>Сделать фото</item>
+        <item>Галерея</item>
+        <item>Нарисовать</item>
+        <item>Создать GIF</item>
+     </string-array>
+     <string-array name="send_photo_types_for_muc">
+        <item>Сделать фото</item>
+        <item>Галерея</item>
+        <item>Нарисовать</item>
+     </string-array>
+     <string-array name="send_video_types">
+        <item>Снять видео</item>
+        <item>Выбрать существующее</item>
+     </string-array>
+     <string-array name="send_voip_types">
+        <item>Аудио вызов</item>
+        <item>Видео вызов</item>
+     </string-array>
+     <string-array name="sixin_setting_choices">
+        <item>Выбрать для удаления</item>
+        <item>Удалить все</item>
+        <item>Настройки</item>
+     </string-array>
+     <string-array name="system_share">
+        <item>Share with friends</item>
+        <item>Share to Union</item>
+        <item>Share on Newsfeed</item>
+     </string-array>
+     <string-array name="visible">
+        <item>Виден всем</item>
+        <item>Только друзям</item>
+        <item>Скрыть</item>
+     </string-array>
+     <string-array name="wall_operations">
+        <item>Отзыв</item>
+        <item>Блокировка</item>
+     </string-array>
+</resources>

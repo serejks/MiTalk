@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="gif_left_frame_number_plurals">
+        <item quantity="other">Изображений: %1$d</item>
+        <item quantity="one">Изображений: %1$d</item>
+    </plurals>
+    <plurals name="sixin_batch_delete_n_conversation_plurals">
+        <item quantity="other">Удалить сообщений: %d?</item>
+        <item quantity="one">Удалить сообщений: %d?</item>
+    </plurals>
+    <plurals name="group_sending_failed_plurals">
+        <item quantity="other">Не удалось отправить сообщений: %s. Повторить.</item>
+        <item quantity="one">Не удалось отправить сообщений: %s. Повторить.</item>
+    </plurals>
+    <plurals name="recipient_selection_group_count_plurals">
+        <item quantity="other">Участников: %d</item>
+        <item quantity="one">Участников: %d</item>
+    </plurals>
+    <plurals name="blacklist_search_hints_plurals">
+        <item quantity="other">Заблокировано: %d</item>
+        <item quantity="one">Заблокировано: %d</item>
+    </plurals>
+    <plurals name="member_cnt_plurals">
+        <item quantity="other">Участников: %1$d</item>
+        <item quantity="one">Участников: %1$d</item>
+    </plurals>
+    <plurals name="muc_member_number_plurals">
+        <item quantity="other">Участников: %d</item>
+        <item quantity="one">Участников: %d</item>
+    </plurals>
+    <plurals name="wall_like_plurals">
+        <item quantity="other">Понравилось (%d)</item>
+        <item quantity="one">Понравилось (%d)</item>
+    </plurals>
+    <plurals name="create_muc_midian_tips_plurals">
+        <item quantity="other">"Стоимость %1$s MiCredits для создания группы.
+У вас %2$s MiCredits."</item>
+        <item quantity="one">"Стоимость %1$s MiCredits для создания группы.
+У вас %2$s MiCredits."</item>
+    </plurals>
+    <plurals name="invite_friends_count_plurals">
+        <item quantity="other">Отправлено приглашений: %d</item>
+        <item quantity="one">Отправлено приглашений: %d</item>
+    </plurals>
+    <plurals name="my_friends_plurals">
+        <item quantity="other">Друзей: %d</item>
+        <item quantity="one">Друзей: %d</item>
+    </plurals>
+    <plurals name="new_message_aggregation_notification_content_plurals">
+        <item quantity="other">Принято сообщений от контактов: %d</item>
+        <item quantity="one">Принято сообщений от контактов: %d</item>
+    </plurals>
+    <plurals name="add_sns_friend_partial_succeeded_plurals">
+        <item quantity="other">Соединено с друзьями (%1$d), но не удалось соединиться еще с %2$d, проверьте подключение и повторите попытку.</item>
+        <item quantity="one">Соединено с друзьями (%1$d), но не удалось соединиться еще с %2$d, проверьте подключение и повторите попытку.</item>
+    </plurals>
+    <plurals name="user_profile_common_friend_plurals">
+        <item quantity="other">Общих друзей: %1$d</item>
+        <item quantity="one">Общих друзей: %1$d</item>
+    </plurals>
+    <plurals name="unread_message_aggregation_notification_content_plurals">
+        <item quantity="other">Непрочитанных сообщений от %d чел.</item>
+        <item quantity="one">Непрочитанных сообщений от %d контакта</item>
+    </plurals>
+    <plurals name="time_is_up_plurals">
+        <item quantity="other">%d сек. прошло</item>
+        <item quantity="one">%d сек. прошло</item>
+    </plurals>
+    <plurals name="seconds_ago_plurals">
+        <item quantity="other">%d сек. назад</item>
+        <item quantity="one">%d сек. назад</item>
+    </plurals>
+    <plurals name="minute_ago_plurals">
+        <item quantity="other">%d мин. назад</item>
+        <item quantity="one">%d мин. назад</item>
+    </plurals>
+    <plurals name="hour_ago_plurals">
+        <item quantity="other">%d ч. назад</item>
+        <item quantity="one">%d ч. назад</item>
+    </plurals>
+    <plurals name="day_ago_plurals">
+        <item quantity="other">%d дн. назад</item>
+        <item quantity="one">%d дн. назад</item>
+    </plurals>
+    <plurals name="month_ago_plurals">
+        <item quantity="other">%d мес. назад</item>
+        <item quantity="one">%d мес. назад</item>
+    </plurals>
+    <plurals name="year_ago_plurals">
+        <item quantity="other">%d лет назад</item>
+        <item quantity="one">%d год назад</item>
+    </plurals>
+    <plurals name="register_count_down_for_verification_code_plurals">
+        <item quantity="other">Повтор через %1$s сек.</item>
+        <item quantity="one">Повтор через %1$s сек.</item>
+    </plurals>
+</resources>
