@@ -1535,7 +1535,7 @@ My%4$s:%5$d"</string>
     <string name="group_chat_full">Все</string>
     <string name="group_chose_to_send">Поздравления</string>
     <string name="group_create_error_no_friend_support">To join a group chat, please update existing Mi Talk version on your device.</string>
-    <string name="group_create_error_no_network">Сеть не найдена</string>
+    <string name="group_create_error_no_network">Не удалось подключиться к интернету</string>
     <string name="group_create_error_not_friend">The person youve invited is not a friend of yours.</string>
     <string name="group_create_error_server_error">Server is not responding, please check your network and try again.</string>
     <string name="group_create_error_unknown">Неизвестная ошибка. Отправьте отчет команде Mi Talk.</string>
@@ -1627,7 +1627,7 @@ My%4$s:%5$d"</string>
     <string name="group_setting_every_one_canadd">"Участники могут 
 приглашать друзей"</string>
     <string name="group_setting_exit">Выйти</string>
-    <string name="group_setting_get_info_failed">Ошибка загрузки. Сеть недоступна.</string>
+    <string name="group_setting_get_info_failed">Ошибка загрузки. Интернет недоступен.</string>
     <string name="group_setting_group_creator_key">Администратор</string>
     <string name="group_setting_group_name_cannot_empty">"It's required to name your group."</string>
     <string name="group_setting_group_name_key">Название группы</string>
@@ -2148,7 +2148,7 @@ My%4$s:%5$d"</string>
     <string name="mili_lottery_dialog_get_mili">У вас недостаточно Mi Points</string>
     <string name="mili_lottery_dialog_get_mili_btn">Как заработать</string>
     <string name="mili_lottery_dialog_i_know_btn">См.</string>
-    <string name="mili_lottery_dialog_network_message">Нет соединения с сетью!</string>
+    <string name="mili_lottery_dialog_network_message">Нет соединения с интернетом!</string>
     <string name="mili_lottery_dialog_network_return">Вернуться</string>
     <string name="mili_lottery_dialog_network_set">Доступ к настройкам</string>
     <string name="mili_lottery_dialog_no_games">Нет доступный лотерей</string>
@@ -2667,7 +2667,7 @@ Please following the instructions from the Email to complete verification proces
     <string name="namecard_university_department_format">%1$s-%2$s%3$s</string>
     <string name="namecard_update_canceled">Обновление отменено</string>
     <string name="namecard_updating">Обновление…</string>
-    <string name="namecard_updating_failed">Ошибка обновления, проверьте соединение с сетью.</string>
+    <string name="namecard_updating_failed">Ошибка обновления, проверьте соединение с интернетом.</string>
     <string name="namecard_updating_succeeded">Обновлено!</string>
     <string name="namecard_voip_chat">Звонок</string>
     <string name="namecard_watch_large_photo">Просмотр</string>
@@ -3175,7 +3175,7 @@ Please following the instructions from the Email to complete verification proces
     <string name="ppl_complete_record_wenan_3">Life is short. Make many friends.</string>
     <string name="ppl_complete_record_wenan_4">"There's always more people to meet"</string>
     <string name="ppl_complete_record_wenan_5">Meet new friends</string>
-    <string name="ppl_complete_recording_error_msg">Сеть недоступна</string>
+    <string name="ppl_complete_recording_error_msg">Интернет недоступна</string>
     <string name="ppl_complete_recording_error_msg_2">Произошла ошибка</string>
     <string name="ppl_complete_recording_fromwhere">001$You met by chance</string>
     <string name="ppl_complete_recording_fromwhere_1">001$You met by chance</string>
@@ -3405,7 +3405,7 @@ Please following the instructions from the Email to complete verification proces
     <string name="recommend_setting_enable_summary">Уведомлять при получении новых рекомендаций.</string>
     <string name="recommend_setting_enable_title">Уведомления рекомендаций</string>
     <string name="recommend_setting_title">Рекомендации</string>
-    <string name="reconnection_notification">Убедитесь, что сеть подключена и попробуйте еще раз.</string>
+    <string name="reconnection_notification">Убедитесь, что интернет подключен и попробуйте еще раз.</string>
     <string name="recording_error">Ошибка записи</string>
     <string name="recording_release_cancel_hint">Удалить</string>
     <string name="recording_remove_hint">Перетащите для отмены</string>
@@ -3419,7 +3419,7 @@ Please following the instructions from the Email to complete verification proces
     <string name="register_change_iconde">Refresh</string>
     <string name="register_failure">Failed to create account, please check your network connection.</string>
     <string name="register_get_icode_failure">Failed to refresh, please check your connections or try again later</string>
-    <string name="register_input_password_hint">Enter your password</string>
+    <string name="register_input_password_hint">Введите пароль</string>
     <string name="register_input_password_tips">Password must be 8-16 characters long and contain both numbers and letters.</string>
     <string name="register_new_account">No account? Get one now!</string>
     <string name="register_new_btn">Регистрация</string>
@@ -3446,9 +3446,6 @@ Please following the instructions from the Email to complete verification proces
     <string name="relational_friend_number_header_sina">Друзья Sina в Mi Talk</string>
     <string name="relational_friend_rr">Renren</string>
     <string name="relational_friend_school">Одноклассники</string>
-    <string name="relational_friend_sina">Sina Weibo</string>
-    <string name="relational_friend_sms_invite">SMS</string>
-    <string name="relational_friend_title">%1$s(%2$s)</string>
     <string name="release_show_default">Release. Default list</string>
     <string name="release_show_unread">Release. Unread first</string>
     <string name="release_to_get_history">Загрузить историю</string>
@@ -3496,7 +3493,6 @@ Please following the instructions from the Email to complete verification proces
     <string name="remind_refuse_btn">Отключить</string>
     <string name="remind_refuse_dialog_body">Мы будем уведомлять отправителя</string>
     <string name="remind_repeat_everyday">День</string>
-    <string name="remind_separator">/</string>
     <string name="remind_set_repeat_day">Повтор</string>
     <string name="remind_set_repeat_tip">Вы установили напоминание на каждые %1$s.</string>
     <string name="remind_set_time_invalid_msg">Установленное время уже прошло</string>
@@ -3515,7 +3511,7 @@ Please following the instructions from the Email to complete verification proces
     <string name="remove_from_blacklist">Удалить</string>
     <string name="renren_refresh_news">Новый</string>
     <string name="reply_failed">Ошибка отправки</string>
-    <string name="reply_format">Reply to %s</string>
+    <string name="reply_format">Ответить %s</string>
     <string name="reply_succeed">Комментарий отправлен</string>
     <string name="report">Жалоба</string>
     <string name="report_accountPro">Аккаунт</string>
@@ -3529,7 +3525,7 @@ Please following the instructions from the Email to complete verification proces
     <string name="report_miworld">MiWorld</string>
     <string name="report_miworld_pro_content">Опишите проблему в деталях.</string>
     <string name="report_miyu_pro_content">Опишите проблему в деталях.</string>
-    <string name="report_netPro">Сеть</string>
+    <string name="report_netPro">Интернет</string>
     <string name="report_net_pro_content">Опишите проблему в деталях.</string>
     <string name="report_ok_button">ОК</string>
     <string name="report_others">Другое</string>
@@ -3538,7 +3534,7 @@ Please following the instructions from the Email to complete verification proces
     <string name="report_prosuggestion">Советы</string>
     <string name="report_recordPro">Запись</string>
     <string name="report_record_pro_content">Опишите проблему в деталях.</string>
-    <string name="report_thank">Thanks for your support!</string>
+    <string name="report_thank">Спасибо за поддержку!</string>
     <string name="report_title">Отчеты и отзывы</string>
     <string name="report_videoPro">Видео</string>
     <string name="report_video_pro_content">Опишите проблему в деталях.</string>
@@ -3559,7 +3555,7 @@ Please following the instructions from the Email to complete verification proces
     <string name="resend_failed">Ошибка отправки</string>
     <string name="resend_sms">Resend</string>
     <string name="resend_sms_succeeded">Подтверждение отправлено по SMS!</string>
-    <string name="reset_password">Reset password</string>
+    <string name="reset_password">Сбросить пароль</string>
     <string name="reset_password_your_miid">Mi аккаунт</string>
     <string name="resource_from">От %s</string>
     <string name="restore_buddies">Обновить список друзей</string>
@@ -3582,17 +3578,17 @@ Please following the instructions from the Email to complete verification proces
     <string name="rotate">Поворот</string>
     <string name="run_diagnose">Диагностика сети</string>
     <string name="saturday">Суббота</string>
-    <string name="save">Save</string>
+    <string name="save">Сохранить</string>
     <string name="save_and_send_email">Подтвердить по Email</string>
     <string name="save_and_send_sms">Подтвердить по SMS</string>
-    <string name="save_barcode">Save QR code to your phone</string>
+    <string name="save_barcode">Сохранить QR код на телефон</string>
     <string name="save_error">Ошибка сохранения</string>
     <string name="save_image">Сохр.</string>
     <string name="save_image_failed">Ошибка сохранения. Убедитесь, что SD карта не заполнена.</string>
     <string name="save_image_succeeded">Изображения сохранены в галерею</string>
     <string name="save_muc_barcode">Save Union QR code to your phone</string>
     <string name="save_multimedia">Сохранить</string>
-    <string name="saving_image">Saving…</string>
+    <string name="saving_image">Сохранение…</string>
     <string name="say_hello">Приветствие</string>
     <string name="say_hi">Приветствие</string>
     <string name="say_hi_sending">Отправка…</string>
@@ -3626,12 +3622,12 @@ Please following the instructions from the Email to complete verification proces
     <string name="sdcard_clean_result">Очищено файлов: %1$d. Сохранено: %2$s</string>
     <string name="sdcard_is_absent">SD карта отсутствует</string>
     <string name="sdcard_is_full">SD карта заполнена</string>
-    <string name="sdcard_unavailable">SD карта отсутсвует.</string>
+    <string name="sdcard_unavailable">SD карта отсутствует</string>
     <string name="sdcard_unmounted">Для использования дополнительных функций необходима SD карта.</string>
     <string name="sdcard_unmounted_download_disabled">SD карта отключена или испрользуется</string>
     <string name="sdcard_unmounted_no_avatar">SD карта отсутствует или используется. Невозможно загрузить фото.</string>
     <string name="search">Поиск</string>
-    <string name="search_account">Search by Mi ID</string>
+    <string name="search_account">Поиск по Mi ID</string>
     <string name="search_confirm">Поиск</string>
     <string name="search_fri_failed_internal_error">Server error, please try again.</string>
     <string name="search_fri_failed_network">Connection error, please check your network and try again.</string>
@@ -3640,23 +3636,23 @@ Please following the instructions from the Email to complete verification proces
     <string name="search_friend_hint">Поиск друзей</string>
     <string name="search_friend_hits">Найдено пользователей: %d</string>
     <string name="search_friend_subtitle">Поиск друзей</string>
-    <string name="search_initial_num">Search results</string>
+    <string name="search_initial_num">Поиск результатов</string>
     <string name="search_key_too_short">Keyword to short</string>
     <string name="search_muc_header">История поиска</string>
-    <string name="search_muc_hint">Search</string>
+    <string name="search_muc_hint">Поиск</string>
     <string name="search_muc_total_num">Результаты поиска: %d</string>
-    <string name="search_music_hint">Search</string>
-    <string name="search_products">Search products</string>
+    <string name="search_music_hint">Поиск</string>
+    <string name="search_products">Поиск продуктов</string>
     <string name="search_remote_user">Search all users named \"%s\"</string>
-    <string name="search_result_null">No results</string>
+    <string name="search_result_null">Нет результатов</string>
     <string name="search_self">Я</string>
     <string name="search_sina_friend">Поиск контактов Sina Weibo</string>
     <string name="search_subscription">Search subscriptions</string>
     <string name="search_subscription_empty">No matching results</string>
-    <string name="search_subscription_et_tips">Search</string>
-    <string name="search_subscription_header">Search history</string>
-    <string name="search_subscription_total_num">Search results: %d</string>
-    <string name="search_user">Search users</string>
+    <string name="search_subscription_et_tips">Поиск</string>
+    <string name="search_subscription_header">Поиск истории</string>
+    <string name="search_subscription_total_num">Поиск результатов: %d</string>
+    <string name="search_user">Поиск пользователей</string>
     <string name="searching">Searching…</string>
     <string name="searching_network_error">Network error, please try again</string>
     <string name="second">с.</string>
@@ -3756,7 +3752,7 @@ Your current Mi Talk version does't support full namecard display."</string>
     <string name="service_refer_me">\@Me</string>
     <string name="service_self_subscribe">Subscribed</string>
     <string name="service_subscribe_vip">Subscriptions</string>
-    <string name="service_system">System</string>
+    <string name="service_system">Система</string>
     <string name="service_system_subscribe">Services</string>
     <string name="service_union">Union</string>
     <string name="service_vip_editor">VIP editors</string>
@@ -3798,7 +3794,7 @@ Your current Mi Talk version does't support full namecard display."</string>
     <string name="setting_title_desktop">Desktop</string>
     <string name="setting_title_message">Message</string>
     <string name="setting_title_no_msg">Do not disturb</string>
-    <string name="setting_title_system">System</string>
+    <string name="setting_title_system">Система</string>
     <string name="settings">Настройки</string>
     <string name="settings_about_nobody_can_sixin">Запретить незнакомым пользователям отправлять вам сообщения?</string>
     <string name="settings_accessibility_pref_traffic">Трафик</string>
@@ -3850,7 +3846,7 @@ Your current Mi Talk version does't support full namecard display."</string>
     <string name="settings_pref_item_my_account">Мой аккаунт</string>
     <string name="settings_pref_item_new_msg_notify">Уведомления</string>
     <string name="settings_pref_item_privacy">Аккаунты</string>
-    <string name="settings_recommend">Сообщение рекоммендации</string>
+    <string name="settings_recommend">Сообщение рекомендации</string>
     <string name="settings_say_hello_swicth">Приветствие</string>
     <string name="settings_security">Security</string>
     <string name="settings_sub_switches_title">Уведомления</string>
@@ -3886,7 +3882,6 @@ Your current Mi Talk version does't support full namecard display."</string>
     <string name="share_hint">Say something</string>
     <string name="share_image">Share image</string>
     <string name="share_image_to_sina_default_str">I have shared pictures on #Mitalk#</string>
-    <string name="share_kaixin">Kaixin</string>
     <string name="share_multi_login">Your ID is active on other device!</string>
     <string name="share_my_card">Поделиться</string>
     <string name="share_my_card_successful">Запись успешно отправлена!</string>
@@ -4090,7 +4085,6 @@ Your current Mi Talk version does't support full namecard display."</string>
     <string name="sns_invite_friends_progress">Отправка запроса другу, успешно: %1$d, неудача: %2$d…</string>
     <string name="sns_invite_sina_weibo_contacts">Пригласить друзей Sina Weibo</string>
     <string name="sns_invite_tips">You will incur regular charges from your carrier for sending text messages</string>
-    <string name="sns_kaixin">Kaixin</string>
     <string name="sns_longclick_to_unbind">Нажмите и удерживайте для отмены</string>
     <string name="sns_msn">MSN</string>
     <string name="sns_my_info_visible_to_others_detail">Позволить другим видеть мой профиль SNS</string>
@@ -4304,7 +4298,7 @@ Your current Mi Talk version does't support full namecard display."</string>
     <string name="transmit_message_to_group_dialog_title">Отправить выбранное в группу?</string>
     <string name="transmit_message_to_groups">Переслать группе</string>
     <string name="transmit_message_to_wall">Forward</string>
-    <string name="try_acessnet">Нет соединения с сетью!</string>
+    <string name="try_acessnet">Нет соединения с интернетом!</string>
     <string name="try_again">Повтор</string>
     <string name="try_connect_again">Проверьте наличие интернет соединения</string>
     <string name="tuesday">Вторник</string>
@@ -4403,7 +4397,6 @@ Your current Mi Talk version does't support full namecard display."</string>
     <string name="uploading">Загрузка…</string>
     <string name="upoad_real_avatar_tips">Upload your picture to earn 2 MiCredits!</string>
     <string name="user_agreement">Пользовательское соглашение</string>
-    <string name="user_agreement_url">http://3g.miliao.com/argument</string>
     <string name="user_guide_add_me">Не забудьте одобрить запрос на дружбу :)</string>
     <string name="user_guide_added_by_me">Проверить, если они приняли ваш запрос в друзья.</string>
     <string name="user_guide_comp_group">Невозможно начать групповой чат сейчас!</string>
@@ -4598,7 +4591,7 @@ Note: verification code expires after 24hrs from the time it gets delivered."</s
     <string name="voip_record_device_error">Ошибка записи</string>
     <string name="voip_remote_device_not_support">"Mi Talk does not support your friend's device model at this point."</string>
     <string name="voip_remote_network_not_support">У пользователя не поддерживается функция вызова, предложите ему обновить приложение Mi Talk.</string>
-    <string name="voip_remote_use_httpconnection">Соединение с сетью у пользователя нестабильно</string>
+    <string name="voip_remote_use_httpconnection">Соединение с интернетом у пользователя нестабильно</string>
     <string name="voip_specification_tips">ОК</string>
     <string name="voip_video_entry">Видеовызов</string>
     <string name="vote_back">Назад</string>
@@ -4668,7 +4661,7 @@ Note: verification code expires after 24hrs from the time it gets delivered."</s
     <string name="wall_like_count">%d♥</string>
     <string name="wall_list_load_failure">You have a poor connection</string>
     <string name="wall_list_no_content">Нет записей</string>
-    <string name="wall_list_to_loading">Loading…</string>
+    <string name="wall_list_to_loading">Загрузка…</string>
     <string name="wall_load_err">Ошибка обновления</string>
     <string name="wall_loading">Загрузка…</string>
     <string name="wall_location_failed">Unable to locate your position!</string>
