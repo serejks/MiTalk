@@ -190,11 +190,11 @@
         <item>Из вашей отрасли</item>
      </string-array>
      <string-array name="discovery_filter">
-        <item>Girls nearby</item>
-        <item>Boys nearby</item>
-        <item>Nearby unions</item>
-        <item>Common friends</item>
-        <item>Nearby venues</item>
+        <item>Девушки поблизости</item>
+        <item>Парни поблизости</item>
+        <item>Союзы поблизости</item>
+        <item>Общие друзья</item>
+        <item>Места поблизости</item>
      </string-array>
      <string-array name="dynamic_send_wall">
         <item>Снять фото</item>
@@ -212,14 +212,14 @@
         <item>Врач</item>
      </string-array>
      <string-array name="effect_name">
-        <item>Tonal</item>
-        <item>Noir</item>
-        <item>Bright</item>
-        <item>Fresh</item>
-        <item>Film</item>
-        <item>Process</item>
-        <item>Vibrant</item>
-        <item>Transfer</item>
+        <item>Тональный</item>
+        <item>Нуар</item>
+        <item>Яркий</item>
+        <item>Свежий</item>
+        <item>Фильм</item>
+        <item>Процесс</item>
+        <item>Светлый</item>
+        <item>Трансфер</item>
      </string-array>
      <string-array name="find_friend_operations">
         <item>Удалить</item>
@@ -246,23 +246,23 @@
         <item>Сбросить пароль через Email</item>
      </string-array>
      <string-array name="industries">
-        <item>Student</item>
+        <item>Студент</item>
         <item>IT</item>
-        <item>Industry</item>
-        <item>Medical</item>
-        <item>Business</item>
-        <item>Civil Servant</item>
-        <item>Law</item>
-        <item>Education</item>
-        <item>Art</item>
-        <item>Media</item>
-        <item>Finance</item>
-        <item>Service</item>
-        <item>Freelancer</item>
-        <item>Agriculture</item>
-        <item>Real Estate</item>
-        <item>Transportation</item>
-        <item>Other</item>
+        <item>Промышленность</item>
+        <item>Медицина</item>
+        <item>Бизнес</item>
+        <item>Гражданская служба</item>
+        <item>Законы</item>
+        <item>Образование</item>
+        <item>Искусство</item>
+        <item>Медиа</item>
+        <item>Финансы</item>
+        <item>Услуги</item>
+        <item>Фрилансер</item>
+        <item>Сельское хозяйство</item>
+        <item>Недвижимость</item>
+        <item>Транспорт</item>
+        <item>Другое</item>
      </string-array>
      <string-array name="invite">
         <item>Добавить друзей из Mi Talk</item>
@@ -275,14 +275,14 @@
      </string-array>
      <string-array name="ml_webview_more">
         <item>Отправить в контакты</item>
-        <item>Share with Union</item>
+        <item>Поделиться с союзом</item>
         <item>Отправить на стену</item>
         <item>Открыть в браузере</item>
         <item>Настройки шрифта</item>
      </string-array>
      <string-array name="ml_webview_more_withnamecard">
         <item>Отправить в контакты</item>
-        <item>Share with Union</item>
+        <item>Поделиться с союзом</item>
         <item>Отправить на стену</item>
         <item>Открыть в браузере</item>
         <item>Открыть в браузере</item>
@@ -290,7 +290,7 @@
      </string-array>
      <string-array name="ml_webview_share">
         <item>Отправить в контакты</item>
-        <item>Share with Union</item>
+        <item>Поделиться с союзом</item>
         <item>Отправить на стену</item>
      </string-array>
      <string-array name="month">
@@ -462,7 +462,7 @@
      </string-array>
      <string-array name="select_archive">
         <item>Добавить друша</item>
-        <item>Add a union</item>
+        <item>Добавить союз</item>
         <item>Добавить подписку</item>
      </string-array>
      <string-array name="send_card_types">
@@ -496,9 +496,9 @@
         <item>Настройки</item>
      </string-array>
      <string-array name="system_share">
-        <item>Share with friends</item>
-        <item>Share to Union</item>
-        <item>Share on Newsfeed</item>
+        <item>Поделиться с друзьями</item>
+        <item>Поделиться с близкими</item>
+        <item>Отправить на стену</item>
      </string-array>
      <string-array name="visible">
         <item>Виден всем</item>
